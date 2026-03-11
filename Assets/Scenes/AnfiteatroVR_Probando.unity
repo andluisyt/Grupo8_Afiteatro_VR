@@ -13028,7 +13028,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 623862435}
   m_SourcePrefab: {fileID: 100100000, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
 --- !u!4 &623862433 stripped
 Transform:
@@ -13036,6 +13040,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 623862432}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &623862434 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+    type: 3}
+  m_PrefabInstance: {fileID: 623862432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &623862435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623862434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad99ae32f70583488c0e4883df44bfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nombrePanelInfo: 
 --- !u!1 &627029387
 GameObject:
   m_ObjectHideFlags: 0
@@ -13814,6 +13837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelInfo: {fileID: 0}
   textoInfo: {fileID: 0}
+  pinActivo: {fileID: 0}
 --- !u!4 &664163000
 Transform:
   m_ObjectHideFlags: 0
@@ -40009,9 +40033,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2073074943}
+  - component: {fileID: 2073074945}
+  - component: {fileID: 2073074944}
   m_Layer: 0
   m_Name: PinesDeCirculatorio
-  m_TagString: Untagged
+  m_TagString: PinCirculatorio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40072,6 +40098,40 @@ Transform:
   - {fileID: 1767516248}
   m_Father: {fileID: 1525744686}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &2073074944
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073074942}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2073074945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073074942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad99ae32f70583488c0e4883df44bfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nombrePanelInfo: 
 --- !u!1 &2073784939
 GameObject:
   m_ObjectHideFlags: 0
@@ -42327,7 +42387,11 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1286864656}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4515396079116663500, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 181065284014564063}
   m_SourcePrefab: {fileID: 100100000, guid: 59889190ffbc2334281e67e6cef80a4f, type: 3}
 --- !u!4 &181065284014564061 stripped
 Transform:
@@ -42335,6 +42399,35 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 181065284014564060}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &181065284014564062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4515396079116663500, guid: 59889190ffbc2334281e67e6cef80a4f,
+    type: 3}
+  m_PrefabInstance: {fileID: 181065284014564060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &181065284014564063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 181065284014564062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25cd9e68a20ee2044ba8ee5cc0b9425a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelInformacion: {fileID: 0}
+  textoTitulo: {fileID: 0}
+  textoDescripcion: {fileID: 0}
+  botonCerrar: {fileID: 0}
+  tagsSistemas:
+  - PinCirculatorio
+  - PinRespiratorio
+  - PinMuscular
+  - PinEsqueleto
+  - PinDigestivo
+  - PinNervioso
 --- !u!114 &490614909401384128
 MonoBehaviour:
   m_ObjectHideFlags: 0
