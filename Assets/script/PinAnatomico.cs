@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class PinAnatomico : MonoBehaviour
 {
-    [Header("Referencia al Panel")]
-    [Tooltip("Nombre exacto del panel a activar (ej: InfoDeArteriaCarotidaComunIzquierda)")]
-    public string nombrePanelInfo;
+    [Header("Panel de Información")]
+    [Tooltip("Arrastra aquí el panel de información correspondiente")]
+    public GameObject panelInformacion;
     
     void Start()
     {
@@ -17,10 +17,10 @@ public class PinAnatomico : MonoBehaviour
             collider.isTrigger = true;
         }
         
-        // Si no se asignó nombre, usar el nombre del objeto
-        if (string.IsNullOrEmpty(nombrePanelInfo))
+        // Si no se asignó panel, intentar buscar automáticamente
+        if (panelInformacion == null)
         {
-            nombrePanelInfo = this.name;
+            BuscarPanelAutomaticamente();
         }
     }
 
@@ -29,41 +29,47 @@ public class PinAnatomico : MonoBehaviour
         ActivarPanelInformacion();
     }
 
-    void ActivarPanelInformacion()
+    void BuscarPanelAutomaticamente()
     {
         GameObject gestor = GameObject.Find("InformacionDePines");
         
-        if (gestor == null)
+        if (gestor != null)
         {
-            Debug.LogError("No se encontró InformacionDePines");
-            return;
+            // Buscar por nombre (fallback)
+            panelInformacion = BuscarPanelRecursivo(gestor.transform, this.name);
+        }
+    }
+
+    void ActivarPanelInformacion()
+    {
+        // Si no hay panel asignado, intentar buscar
+        if (panelInformacion == null)
+        {
+            BuscarPanelAutomaticamente();
+            
+            if (panelInformacion == null)
+            {
+                Debug.LogWarning("✗ No se encontró panel para: " + this.name);
+                return;
+            }
         }
 
-        // Desactivar TODOS los paneles de TODOS los sistemas
-        DesactivarTodosLosPaneles(gestor.transform);
-
-        // Buscar y activar el panel específico
-        GameObject panelActivar = BuscarPanelRecursivo(gestor.transform, nombrePanelInfo);
-
-        if (panelActivar != null)
+        // Desactivar TODOS los paneles primero
+        GameObject gestor = GameObject.Find("InformacionDePines");
+        if (gestor != null)
         {
-            panelActivar.SetActive(true);
-            Debug.Log("✓ Panel activado: " + nombrePanelInfo);
+            DesactivarTodosLosPaneles(gestor.transform);
         }
-        else
-        {
-            Debug.LogWarning("✗ No se encontró el panel: " + nombrePanelInfo);
-        }
+
+        // Activar SOLO este panel
+        panelInformacion.SetActive(true);
+        Debug.Log("✓ Panel activado: " + panelInformacion.name);
     }
 
     void DesactivarTodosLosPaneles(Transform padre)
     {
         foreach (Transform child in padre)
         {
-            // Desactivar hijos directos (los sistemas)
-            child.gameObject.SetActive(false);
-            
-            // O si quieres desactivar cada panel individual dentro de los sistemas:
             DesactivarRecursivo(child);
         }
     }
@@ -80,7 +86,6 @@ public class PinAnatomico : MonoBehaviour
 
     GameObject BuscarPanelRecursivo(Transform padre, string nombre)
     {
-        // Buscar en hijos directos
         foreach (Transform child in padre)
         {
             if (child.name == nombre)
@@ -88,7 +93,6 @@ public class PinAnatomico : MonoBehaviour
                 return child.gameObject;
             }
             
-            // Buscar recursivamente en los hijos
             GameObject encontrado = BuscarPanelRecursivo(child, nombre);
             if (encontrado != null)
             {

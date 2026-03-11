@@ -13025,6 +13025,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PindelaArteriaCarotidacomunIzquierda
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_TagString
+      value: PinCirculatorio
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13033,6 +13038,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 623862435}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 623862439}
   m_SourcePrefab: {fileID: 100100000, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
 --- !u!4 &623862433 stripped
 Transform:
@@ -13058,7 +13067,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad99ae32f70583488c0e4883df44bfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombrePanelInfo: 
+  panelInformacion: {fileID: 623862434}
+--- !u!135 &623862439
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623862434}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.010907487
+  m_Center: {x: 0.000118345975, y: 7.989139e-12, z: 0.00078901835}
 --- !u!1 &627029387
 GameObject:
   m_ObjectHideFlags: 0
@@ -31263,7 +31293,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1610959526
 Transform:
   m_ObjectHideFlags: 0
@@ -40037,11 +40067,11 @@ GameObject:
   - component: {fileID: 2073074944}
   m_Layer: 0
   m_Name: PinesDeCirculatorio
-  m_TagString: PinCirculatorio
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2073074943
 Transform:
   m_ObjectHideFlags: 0
@@ -40131,7 +40161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad99ae32f70583488c0e4883df44bfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombrePanelInfo: 
+  panelInformacion: {fileID: 0}
 --- !u!1 &2073784939
 GameObject:
   m_ObjectHideFlags: 0
@@ -42115,6 +42145,11 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 475065409120285312, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1704148876222180539, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
       value: 0
