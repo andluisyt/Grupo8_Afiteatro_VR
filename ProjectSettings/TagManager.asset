@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pin
+  - PinCirculatorio
+  - PinRespiratorio
+  - PinMuscular
+  - PinEsqueleto
+  - PinDigestivo
+  - PinNervioso
   layers:
   - Default
   - TransparentFX
