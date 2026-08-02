@@ -5,36 +5,68 @@ using UnityEngine;
 public class GestorPanelesInformativos : MonoBehaviour
 {
     private GameObject panelActual;
+    private PinPanelInformativo pinActual;
 
     private void Start()
     {
         OcultarTodosLosPaneles();
     }
 
-    public void MostrarPanel(GameObject panelNuevo)
+    public void AlternarPanel(
+        GameObject panelNuevo,
+        PinPanelInformativo pinNuevo
+    )
     {
-        if (panelNuevo == null)
+        if (panelNuevo == null || pinNuevo == null)
         {
-            Debug.LogWarning("No se asignó un panel informativo.");
+            Debug.LogWarning(
+                "No se asignó correctamente el panel o el pin."
+            );
+
             return;
         }
 
-        // Oculta el panel anterior.
-        if (panelActual != null && panelActual != panelNuevo)
+        // Si vuelve a detectar el mismo pin,
+        // cierra el panel que ya estaba visible.
+        if (panelActual == panelNuevo && pinActual == pinNuevo)
+        {
+            panelActual.SetActive(false);
+
+            panelActual = null;
+            pinActual = null;
+
+            return;
+        }
+
+        // Si había otro panel abierto, lo cierra.
+        if (panelActual != null)
         {
             panelActual.SetActive(false);
         }
 
+        // Abre el panel del nuevo pin.
         panelActual = panelNuevo;
+        pinActual = pinNuevo;
+
         panelActual.SetActive(true);
     }
 
-    public void OcultarPanel(GameObject panelQueSale)
+    public void CerrarPanelActual()
     {
-        if (panelActual == panelQueSale)
+        if (panelActual != null)
         {
             panelActual.SetActive(false);
-            panelActual = null;
+        }
+
+        panelActual = null;
+        pinActual = null;
+    }
+
+    public void CerrarSiEsActual(GameObject panel)
+    {
+        if (panelActual == panel)
+        {
+            CerrarPanelActual();
         }
     }
 
@@ -46,5 +78,6 @@ public class GestorPanelesInformativos : MonoBehaviour
         }
 
         panelActual = null;
+        pinActual = null;
     }
 }

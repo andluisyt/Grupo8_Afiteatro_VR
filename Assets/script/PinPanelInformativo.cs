@@ -4,135 +4,175 @@ using UnityEngine;
 
 public class PinPanelInformativo : MonoBehaviour
 {
-    [Header("Administrador de paneles")]
+    [Header("Referencias")]
     public GestorPanelesInformativos gestorPaneles;
-
-    [Header("Panel correspondiente")]
     public GameObject panelCorrespondiente;
+    public Transform camaraVR;
 
     [Header("Posición del panel")]
-    public float alturaSobreElPin = 0.35f;
-    public float distanciaHaciaElUsuario = 0.08f;
+    public float alturaSobreElPin = 0.28f;
+    public float distanciaHaciaElUsuario = 0.38f;
 
-    [Header("Orientación")]
-    public Transform camaraVR;
+    [Header("Billboard")]
     public bool orientarHaciaCamara = true;
     public bool girarPanel180 = true;
 
-    [Header("Cierre")]
-    public float retrasoParaOcultar = 0.15f;
+    [Header("Protección contra activaciones rápidas")]
+    public float tiempoMinimoEntreActivaciones = 0.35f;
 
-    private Coroutine rutinaOcultar;
-    private bool rayoSobreElPin;
+    private float ultimaActivacion = -100f;
 
-    public void MostrarInformacion()
+    public void AlternarInformacion()
     {
-        Debug.Log("ENTRÓ EL RAYO AL PIN: " + gameObject.name);
-
-        rayoSobreElPin = true;
-
-        if (rutinaOcultar != null)
+        // Evita que pequeñas vibraciones del rayo ejecuten
+        // varias activaciones casi simultáneamente.
+        if (
+            Time.unscaledTime - ultimaActivacion
+            < tiempoMinimoEntreActivaciones
+        )
         {
-            StopCoroutine(rutinaOcultar);
-            rutinaOcultar = null;
+            return;
         }
+
+        ultimaActivacion = Time.unscaledTime;
 
         if (gestorPaneles == null)
         {
-            Debug.LogError("No se asignó el gestor en " + gameObject.name);
+            Debug.LogError(
+                "No se asignó el gestor en " + gameObject.name
+            );
+
             return;
         }
 
         if (panelCorrespondiente == null)
         {
-            Debug.LogError("No se asignó el panel en " + gameObject.name);
+            Debug.LogError(
+                "No se asignó el panel en " + gameObject.name
+            );
+
             return;
         }
 
         ColocarPanelSobreElPin();
-        gestorPaneles.MostrarPanel(panelCorrespondiente);
+
+        gestorPaneles.AlternarPanel(
+            panelCorrespondiente,
+            this
+        );
     }
 
-    public void OcultarInformacion()
+    private void LateUpdate()
     {
-        Debug.Log("SALIÓ EL RAYO DEL PIN: " + gameObject.name);
-
-        rayoSobreElPin = false;
-
-        if (rutinaOcultar != null)
+        if (
+            panelCorrespondiente == null ||
+            !panelCorrespondiente.activeInHierarchy ||
+            !orientarHaciaCamara
+        )
         {
-            StopCoroutine(rutinaOcultar);
+            return;
         }
 
-        rutinaOcultar = StartCoroutine(OcultarConRetraso());
+        Transform camaraUsada = ObtenerCamara();
+
+        if (camaraUsada == null)
+        {
+            return;
+        }
+
+        OrientarPanelHaciaCamara(camaraUsada);
     }
 
     private void ColocarPanelSobreElPin()
     {
-        Transform camaraUsada = camaraVR;
+        Transform camaraUsada = ObtenerCamara();
 
-        if (camaraUsada == null && Camera.main != null)
-        {
-            camaraUsada = Camera.main.transform;
-        }
-
-        // Posición inicial: encima del pin.
         Vector3 nuevaPosicion =
-            transform.position + Vector3.up * alturaSobreElPin;
+            transform.position +
+            Vector3.up * alturaSobreElPin;
 
-        // Acercarlo ligeramente hacia el usuario para evitar
-        // que quede dentro del modelo anatómico.
         if (camaraUsada != null)
         {
             Vector3 direccionHaciaUsuario =
-                (camaraUsada.position - nuevaPosicion).normalized;
+                (
+                    camaraUsada.position -
+                    nuevaPosicion
+                ).normalized;
 
             nuevaPosicion +=
-                direccionHaciaUsuario * distanciaHaciaElUsuario;
+                direccionHaciaUsuario *
+                distanciaHaciaElUsuario;
         }
 
-        panelCorrespondiente.transform.position = nuevaPosicion;
+        panelCorrespondiente.transform.position =
+            nuevaPosicion;
 
-        // Hacer que el panel mire hacia el usuario.
-        if (orientarHaciaCamara && camaraUsada != null)
+        if (camaraUsada != null && orientarHaciaCamara)
         {
-            panelCorrespondiente.transform.LookAt(camaraUsada.position);
-
-            if (girarPanel180)
-            {
-                panelCorrespondiente.transform.Rotate(0f, 180f, 0f);
-            }
+            OrientarPanelHaciaCamara(camaraUsada);
         }
     }
 
-    private IEnumerator OcultarConRetraso()
+    private void OrientarPanelHaciaCamara(
+        Transform camaraUsada
+    )
     {
-        yield return new WaitForSecondsRealtime(retrasoParaOcultar);
+        Vector3 direccion =
+            camaraUsada.position -
+            panelCorrespondiente.transform.position;
 
-        if (!rayoSobreElPin &&
-            gestorPaneles != null &&
-            panelCorrespondiente != null)
+        // Evita errores cuando ambas posiciones coinciden.
+        if (direccion.sqrMagnitude < 0.0001f)
         {
-            gestorPaneles.OcultarPanel(panelCorrespondiente);
+            return;
         }
 
-        rutinaOcultar = null;
+        Quaternion rotacion =
+            Quaternion.LookRotation(
+                direccion.normalized,
+                Vector3.up
+            );
+
+        if (girarPanel180)
+        {
+            rotacion *= Quaternion.Euler(
+                0f,
+                180f,
+                0f
+            );
+        }
+
+        panelCorrespondiente.transform.rotation =
+            rotacion;
+    }
+
+    private Transform ObtenerCamara()
+    {
+        if (camaraVR != null)
+        {
+            return camaraVR;
+        }
+
+        if (Camera.main != null)
+        {
+            return Camera.main.transform;
+        }
+
+        return null;
     }
 
     private void OnDisable()
     {
-        rayoSobreElPin = false;
-
-        if (rutinaOcultar != null)
+        // Si se apaga el sistema anatómico,
+        // también cierra su panel.
+        if (
+            gestorPaneles != null &&
+            panelCorrespondiente != null
+        )
         {
-            StopCoroutine(rutinaOcultar);
-            rutinaOcultar = null;
-        }
-
-        if (gestorPaneles != null &&
-            panelCorrespondiente != null)
-        {
-            gestorPaneles.OcultarPanel(panelCorrespondiente);
+            gestorPaneles.CerrarSiEsActual(
+                panelCorrespondiente
+            );
         }
     }
 }
