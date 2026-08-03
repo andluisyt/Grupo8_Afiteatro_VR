@@ -397,8 +397,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564145}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -925,8 +925,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564137}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -1196,8 +1196,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564103}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -1527,8 +1527,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564112}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -1803,8 +1803,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564134}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -2202,8 +2202,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 364694876}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -3322,8 +3322,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564098}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -4157,8 +4157,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564078}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -4786,8 +4786,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 1946261216}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -5073,8 +5073,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564076}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -5648,8 +5648,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 181065284014564121}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -6551,8 +6551,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564066}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -7168,8 +7168,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564159}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -7735,8 +7735,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 1774420192}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -8061,8 +8061,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564118}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -8394,8 +8394,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564108}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -8775,8 +8775,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564157}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -9656,8 +9656,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564142}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -9944,8 +9944,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564153}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -11091,8 +11091,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564062}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -12480,8 +12480,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564164}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -13087,8 +13087,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564101}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -13511,8 +13511,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564147}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -14291,8 +14291,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 181065284014564123}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -15339,8 +15339,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564136}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -16463,8 +16463,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 181065284014564124}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -16770,8 +16770,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564148}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -17589,8 +17589,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564080}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -18111,8 +18111,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564079}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -19146,8 +19146,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564073}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -19625,8 +19625,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564072}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -20347,8 +20347,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 142129721}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -20789,8 +20789,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 1786731723}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -21152,8 +21152,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564110}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -21604,8 +21604,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564138}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -22226,8 +22226,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564077}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -22926,8 +22926,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 1786731728}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -23276,8 +23276,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564099}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -23801,8 +23801,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 181065284014564130}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -24781,8 +24781,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564116}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -25055,8 +25055,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564096}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -25440,8 +25440,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564063}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -27639,8 +27639,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564165}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -28673,8 +28673,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564094}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -29392,8 +29392,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564151}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -29812,8 +29812,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564155}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -31298,8 +31298,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564070}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -31758,8 +31758,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564160}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -32029,8 +32029,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564107}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -32336,8 +32336,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564115}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -32935,8 +32935,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564168}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -33541,8 +33541,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564119}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -33873,8 +33873,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564139}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -34138,8 +34138,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564090}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -34421,8 +34421,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 405085869}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -35101,8 +35101,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 434769378}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -35640,8 +35640,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564146}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -36305,8 +36305,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564167}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -36504,37 +36504,37 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.06448763
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.0000016787089
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.044982284
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9942062
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: -0.000000029802322
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.10749
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0.000000014901161
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
@@ -36544,7 +36544,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 12.341
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 962744b215a7e42f3968f66690cd3960,
         type: 3}
@@ -36981,8 +36981,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564089}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -38083,8 +38083,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564158}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -38453,8 +38453,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564133}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -38724,8 +38724,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564106}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -39321,8 +39321,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 0}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -39635,8 +39635,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564067}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -40137,8 +40137,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564065}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -40555,8 +40555,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564117}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -41086,8 +41086,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564095}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -41357,8 +41357,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564111}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -41867,8 +41867,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564150}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -42261,8 +42261,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564144}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -42630,8 +42630,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564114}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -43599,8 +43599,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564075}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -44631,7 +44631,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1444417387}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
-        m_MethodName: MostrarInformacion
+        m_MethodName: AlternarInformacion
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -44711,8 +44711,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 105060252}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -45327,8 +45327,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564092}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -47183,8 +47183,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 181065284014564120}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -47527,8 +47527,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564161}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -48278,8 +48278,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564141}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -48907,8 +48907,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564104}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -49736,8 +49736,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 181065284014564122}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -50007,8 +50007,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564105}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -50316,8 +50316,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564156}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -50685,8 +50685,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564152}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -52647,8 +52647,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564162}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -52966,8 +52966,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564102}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -53286,8 +53286,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564088}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -54323,8 +54323,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 1539629680}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -54604,8 +54604,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564070}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -55316,8 +55316,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564097}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -55581,8 +55581,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564086}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -55857,8 +55857,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564143}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -56219,8 +56219,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564132}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -56709,8 +56709,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 2061465671}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -57016,8 +57016,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564163}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -57594,8 +57594,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564166}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -58109,8 +58109,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 1786731726}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -58593,8 +58593,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564109}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -58905,8 +58905,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564135}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -59918,8 +59918,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564083}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -60143,8 +60143,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564084}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -60508,8 +60508,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 1856065196}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -61004,8 +61004,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564149}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -61329,8 +61329,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564064}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -62368,8 +62368,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564085}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -62993,8 +62993,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 260487239}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -63264,8 +63264,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564091}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -63608,8 +63608,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564154}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -63982,8 +63982,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 1415717641}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -64258,8 +64258,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564081}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -64601,8 +64601,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1833556953}
   panelCorrespondiente: {fileID: 1786731725}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -65030,8 +65030,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564074}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -66025,8 +66025,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 963368520}
   panelCorrespondiente: {fileID: 595635184}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -66665,8 +66665,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1786731733}
   panelCorrespondiente: {fileID: 181065284014564140}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.28
-  distanciaHaciaElUsuario: 0.38
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -66936,8 +66936,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564113}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -67474,8 +67474,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564087}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -67786,8 +67786,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2007117021}
   panelCorrespondiente: {fileID: 181065284014564071}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -68131,8 +68131,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 1958851943}
   panelCorrespondiente: {fileID: 181065284014564100}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
@@ -68551,8 +68551,8 @@ MonoBehaviour:
   gestorPaneles: {fileID: 2118192706}
   panelCorrespondiente: {fileID: 181065284014564093}
   camaraVR: {fileID: 1466233387}
-  alturaSobreElPin: 0.35
-  distanciaHaciaElUsuario: 0.08
+  alturaSobreElPin: 0.25
+  distanciaHaciaElUsuario: 0.1
   orientarHaciaCamara: 1
   girarPanel180: 1
   tiempoMinimoEntreActivaciones: 0.35
