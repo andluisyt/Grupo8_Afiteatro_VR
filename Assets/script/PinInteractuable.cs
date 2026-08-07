@@ -8,20 +8,15 @@ public class PinInteractuable : MonoBehaviour
     [Tooltip("Escribe exactamente el Tag del panel correspondiente.")]
     [SerializeField] private string tagDelPanelAActivar;
 
-    [Header("Ajustes de Posición")]
-    [SerializeField] private float alturaSobreElPin = 0.3f;
-
-    [Tooltip("Distancia del panel hacia el usuario.")]
-    [SerializeField] private float distanciaHaciaUsuario = 0.1f;
-
     private GameObject panelAsociado;
     private Transform camaraVR;
 
-    // Esta variable es compartida por todos los pines.
+    // Compartido por todos los pines.
     private static GameObject panelActualmenteVisible;
 
     private void Start()
     {
+        // Buscar cámara VR.
         if (Camera.main != null)
         {
             camaraVR = Camera.main.transform;
@@ -33,6 +28,7 @@ public class PinInteractuable : MonoBehaviour
             );
         }
 
+        // Comprobar Tag.
         if (string.IsNullOrEmpty(tagDelPanelAActivar))
         {
             Debug.LogWarning(
@@ -43,6 +39,7 @@ public class PinInteractuable : MonoBehaviour
             return;
         }
 
+        // Buscar panel asociado.
         panelAsociado =
             GameObject.FindGameObjectWithTag(tagDelPanelAActivar);
 
@@ -57,6 +54,7 @@ public class PinInteractuable : MonoBehaviour
             return;
         }
 
+        // Lo ocultamos al iniciar.
         panelAsociado.SetActive(false);
     }
 
@@ -73,51 +71,32 @@ public class PinInteractuable : MonoBehaviour
             return;
         }
 
-        // Oculta el panel anterior.
+        // Si existe otro panel abierto, lo cerramos.
         if (panelActualmenteVisible != null &&
             panelActualmenteVisible != panelAsociado)
         {
             panelActualmenteVisible.SetActive(false);
         }
 
-        PosicionarPanel();
+        // IMPORTANTE:
+        // NO cambiamos la posición del panel.
+        // Aparecerá exactamente donde fue colocado en el Editor.
 
         panelAsociado.SetActive(true);
+
         panelActualmenteVisible = panelAsociado;
 
         Debug.Log(
             "Panel visible: " + panelAsociado.name +
-            " | Activo: " + panelAsociado.activeInHierarchy
+            " | Posición conservada: " +
+            panelAsociado.transform.position
         );
-    }
-
-    private void PosicionarPanel()
-    {
-        Vector3 posicionNueva =
-            transform.position + Vector3.up * alturaSobreElPin;
-
-        if (camaraVR != null)
-        {
-            Vector3 direccionHaciaUsuario =
-                camaraVR.position - posicionNueva;
-
-            direccionHaciaUsuario.y = 0f;
-
-            if (direccionHaciaUsuario.sqrMagnitude > 0.001f)
-            {
-                direccionHaciaUsuario.Normalize();
-
-                posicionNueva +=
-                    direccionHaciaUsuario * distanciaHaciaUsuario;
-            }
-        }
-
-        panelAsociado.transform.position = posicionNueva;
-        OrientarPanel();
     }
 
     private void LateUpdate()
     {
+        // Solamente hacemos que mire al usuario.
+        // NO modificamos su posición.
         if (panelAsociado != null &&
             panelAsociado.activeSelf &&
             camaraVR != null)
@@ -129,7 +108,8 @@ public class PinInteractuable : MonoBehaviour
     private void OrientarPanel()
     {
         Vector3 direccionHaciaCamara =
-            camaraVR.position - panelAsociado.transform.position;
+            camaraVR.position -
+            panelAsociado.transform.position;
 
         direccionHaciaCamara.y = 0f;
 

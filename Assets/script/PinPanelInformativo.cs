@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections;
 using UnityEngine;
 
 public class PinPanelInformativo : MonoBehaviour
@@ -8,10 +7,6 @@ public class PinPanelInformativo : MonoBehaviour
     public GestorPanelesInformativos gestorPaneles;
     public GameObject panelCorrespondiente;
     public Transform camaraVR;
-
-    [Header("Posición del panel")]
-    public float alturaSobreElPin = 0.28f;
-    public float distanciaHaciaElUsuario = 0.38f;
 
     [Header("Billboard")]
     public bool orientarHaciaCamara = true;
@@ -24,8 +19,8 @@ public class PinPanelInformativo : MonoBehaviour
 
     public void AlternarInformacion()
     {
-        // Evita que pequeñas vibraciones del rayo ejecuten
-        // varias activaciones casi simultáneamente.
+        // Evita activaciones múltiples por pequeñas
+        // vibraciones del Ray del controlador.
         if (
             Time.unscaledTime - ultimaActivacion
             < tiempoMinimoEntreActivaciones
@@ -54,7 +49,10 @@ public class PinPanelInformativo : MonoBehaviour
             return;
         }
 
-        ColocarPanelSobreElPin();
+        // IMPORTANTE:
+        // Ya NO modificamos la posición del panel.
+        // Mantiene exactamente la posición configurada
+        // manualmente en Unity.
 
         gestorPaneles.AlternarPanel(
             panelCorrespondiente,
@@ -80,37 +78,9 @@ public class PinPanelInformativo : MonoBehaviour
             return;
         }
 
+        // Solo modificamos la ROTACIÓN.
+        // La posición permanece intacta.
         OrientarPanelHaciaCamara(camaraUsada);
-    }
-
-    private void ColocarPanelSobreElPin()
-    {
-        Transform camaraUsada = ObtenerCamara();
-
-        Vector3 nuevaPosicion =
-            transform.position +
-            Vector3.up * alturaSobreElPin;
-
-        if (camaraUsada != null)
-        {
-            Vector3 direccionHaciaUsuario =
-                (
-                    camaraUsada.position -
-                    nuevaPosicion
-                ).normalized;
-
-            nuevaPosicion +=
-                direccionHaciaUsuario *
-                distanciaHaciaElUsuario;
-        }
-
-        panelCorrespondiente.transform.position =
-            nuevaPosicion;
-
-        if (camaraUsada != null && orientarHaciaCamara)
-        {
-            OrientarPanelHaciaCamara(camaraUsada);
-        }
     }
 
     private void OrientarPanelHaciaCamara(
@@ -121,7 +91,6 @@ public class PinPanelInformativo : MonoBehaviour
             camaraUsada.position -
             panelCorrespondiente.transform.position;
 
-        // Evita errores cuando ambas posiciones coinciden.
         if (direccion.sqrMagnitude < 0.0001f)
         {
             return;
