@@ -117,7 +117,7 @@ Material:
     - _value2: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _CenterPoint: {r: -2.2775156, g: 1.4602367, b: -5.9184213, a: 0}
+    - _CenterPoint: {r: -0.8531437, g: 1.6958632, b: -5.287088, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
