@@ -27867,6 +27867,68 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1918308323}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &869033919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 869033921}
+  - component: {fileID: 869033920}
+  m_Layer: 0
+  m_Name: GestorInteraccionSistemas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &869033920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 869033919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dc5cd354ac961242bdd972a9619d1a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sistemaCirculatorio: {fileID: 257732604}
+  sistemaEsqueletico: {fileID: 107285891}
+  sistemaMuscular: {fileID: 1841646388}
+  sistemaDigestivo: {fileID: 1016521210}
+  sistemaNervioso: {fileID: 1643592370}
+  sistemaRespiratorio: {fileID: 1462119680}
+  pinesCirculatorio: {fileID: 2073074942}
+  pinesEsqueletico: {fileID: 935371543}
+  pinesMuscular: {fileID: 1610959525}
+  pinesDigestivo: {fileID: 1890067974}
+  pinesNervioso: {fileID: 504592828}
+  pinesRespiratorio: {fileID: 1253645241}
+  infoCirculatorio: {fileID: 1786731733}
+  infoEsqueletico: {fileID: 1958851943}
+  infoMuscular: {fileID: 963368520}
+  infoDigestivo: {fileID: 2118192706}
+  infoNervioso: {fileID: 2007117021}
+  infoRespiratorio: {fileID: 1833556953}
+--- !u!4 &869033921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 869033919}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.075194545, y: 0.63235897, z: -2.0538573}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &871663688
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59315,13 +59377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonImage: {fileID: 74372387}
-  sistemaManager: {fileID: 1043592915}
-  pinesCirculatorio: {fileID: 2073074942}
-  pinesEsqueletico: {fileID: 935371543}
-  pinesMuscular: {fileID: 1610959525}
-  pinesDigestivo: {fileID: 1890067974}
-  pinesNervioso: {fileID: 504592828}
-  pinesRespiratorio: {fileID: 1253645241}
+  gestorInteraccion: {fileID: 869033920}
   pinActivo: 0
 --- !u!4 &1846552705
 Transform:
@@ -60565,6 +60621,7 @@ GameObject:
   - component: {fileID: 1910080332}
   - component: {fileID: 1910080331}
   - component: {fileID: 1910080330}
+  - component: {fileID: 1910080336}
   m_Layer: 0
   m_Name: AR_Window
   m_TagString: Untagged
@@ -60646,7 +60703,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1910080329}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -60704,6 +60761,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1910080336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910080329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a90c87223e5b1a41897ee07f098e482, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scriptMovimiento: {fileID: 1910080330}
+  imagenCandado: {fileID: 0}
 --- !u!1 &1912551627
 GameObject:
   m_ObjectHideFlags: 0
@@ -108066,6 +108137,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1910080336}
+        m_TargetAssemblyTypeName: BloquearARWindow, Assembly-CSharp
+        m_MethodName: AlternarBloqueo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2261960413778598916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108113,6 +108196,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1043592914}
         m_TargetAssemblyTypeName: ActivarPanelHerramientas, Assembly-CSharp
         m_MethodName: ToggleRespiratorio
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarRespiratorio
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -108178,6 +108273,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarEsqueletico
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2261960413892295012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108234,6 +108341,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarNervioso
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2261960414044779099
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108281,6 +108400,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1043592914}
         m_TargetAssemblyTypeName: ActivarPanelHerramientas, Assembly-CSharp
         m_MethodName: ToggleMuscular
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarMuscular
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -108414,6 +108545,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarCirculatorio
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2261960415226710313
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108517,6 +108660,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1043592914}
         m_TargetAssemblyTypeName: ActivarPanelHerramientas, Assembly-CSharp
         m_MethodName: ToggleDigestivo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 869033920}
+        m_TargetAssemblyTypeName: GestorInteraccionSistemas, Assembly-CSharp
+        m_MethodName: ActivarDigestivo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -112295,3 +112450,4 @@ SceneRoots:
   - {fileID: 1910080335}
   - {fileID: 164700804}
   - {fileID: 1453790281}
+  - {fileID: 869033921}
