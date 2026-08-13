@@ -1,87 +1,143 @@
-Shader "Custom/UnlockedSkinTexture_VR"
+Shader "Custom/UnlockedSkinTexture_VR_Solid"
 {
-      Properties
+    Properties
     {
         _Color("Color", Color) = (1,1,1,1)
         _MainTex("MainTex", 2D) = "white" {}
-        _Radius("Radius", Range(0.0, 5)) = 0.5
-        _Hardness("Hardness", Range(0.01, 0.99999)) = 1.0
-        _CenterPoint("Center", Vector) = (0, 0, 0, 0)
-        _value1("value1", Float) = 2.0
-        _value2("value2", Float) = 1.0
+
+        _Radius("Radius", Range(0.0, 5.0)) = 0.5
+        _CenterPoint("Center", Vector) = (0,0,0,0)
     }
 
     SubShader
     {
-        Tags { "RenderType"="Transparent" "Queue"="Transparent" "RenderPipeline"="UniversalPipeline" }
+        Tags
+        {
+            "RenderType"="Opaque"
+            "Queue"="Geometry"
+            "RenderPipeline"="UniversalPipeline"
+        }
+
         LOD 200
 
-        Blend SrcAlpha OneMinusSrcAlpha
-        ZWrite Off
         Cull Back
+        ZWrite On
+        ZTest LEqual
 
         Pass
         {
-            Name "ForwardLit"
-            Tags { "LightMode" = "UniversalForward" }
+            Name "Forward"
+
+            Tags
+            {
+                "LightMode"="UniversalForward"
+            }
 
             HLSLPROGRAM
+
             #pragma vertex vert
             #pragma fragment frag
+            #pragma target 3.0
+            #pragma multi_compile_instancing
 
             #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
 
             struct Attributes
             {
                 float4 positionOS : POSITION;
-                float3 normalOS   : NORMAL;
-                float2 uv         : TEXCOORD0;
+                float2 uv : TEXCOORD0;
+
+                UNITY_VERTEX_INPUT_INSTANCE_ID
             };
 
             struct Varyings
             {
                 float4 positionHCS : SV_POSITION;
-                float2 uv          : TEXCOORD0;
-                float3 worldPos    : TEXCOORD1;
-                float3 worldNormal : TEXCOORD2;
-                float3 viewDirWS   : TEXCOORD3;
+                float2 uv : TEXCOORD0;
+                float3 worldPos : TEXCOORD1;
+
+                UNITY_VERTEX_OUTPUT_STEREO
             };
 
             TEXTURE2D(_MainTex);
             SAMPLER(sampler_MainTex);
-            float4 _MainTex_ST;
 
-            float4 _Color;
-            float3 _CenterPoint;
+            CBUFFER_START(UnityPerMaterial)
+
+            float4 _MainTex_ST;
+            half4 _Color;
+            float4 _CenterPoint;
             float _Radius;
-            float _Hardness;
-            float _value1;
-            float _value2;
+
+            CBUFFER_END
+
 
             Varyings vert(Attributes IN)
             {
                 Varyings OUT;
-                VertexPositionInputs vpi = GetVertexPositionInputs(IN.positionOS.xyz);
-                OUT.positionHCS = vpi.positionCS;
-                OUT.worldPos = vpi.positionWS;
-                OUT.worldNormal = TransformObjectToWorldNormal(IN.normalOS);
-                OUT.viewDirWS = GetWorldSpaceNormalizeViewDir(vpi.positionWS);
-                OUT.uv = TRANSFORM_TEX(IN.uv, _MainTex);
+
+                UNITY_SETUP_INSTANCE_ID(IN);
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(OUT);
+
+                VertexPositionInputs positionInputs =
+                    GetVertexPositionInputs(
+                        IN.positionOS.xyz
+                    );
+
+                OUT.positionHCS =
+                    positionInputs.positionCS;
+
+                OUT.worldPos =
+                    positionInputs.positionWS;
+
+                OUT.uv =
+                    TRANSFORM_TEX(
+                        IN.uv,
+                        _MainTex
+                    );
+
                 return OUT;
             }
 
+
             half4 frag(Varyings IN) : SV_Target
             {
-                half4 col = SAMPLE_TEXTURE2D(_MainTex, sampler_MainTex, IN.uv) * _Color;
+                UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(IN);
 
-                float distFactor = saturate((length(_CenterPoint - IN.worldPos) - _Radius) / (1.0 - _Hardness));
-                float fresnelFactor = saturate(1 - pow(saturate(dot(normalize(IN.viewDirWS), normalize(IN.worldNormal))), _value2) * _value1);
-                float alpha = saturate(distFactor + fresnelFactor);
+                // Distancia entre este píxel de la piel
+                // y AR_Window.
+                float distancia =
+                    distance(
+                        IN.worldPos,
+                        _CenterPoint.xyz
+                    );
 
-                return half4(col.rgb, alpha);
+                // Dentro del radio se elimina el píxel.
+                clip(
+                    distancia - _Radius
+                );
+
+
+                // Fuera del agujero:
+                // piel completamente sólida.
+                half4 textura =
+                    SAMPLE_TEXTURE2D(
+                        _MainTex,
+                        sampler_MainTex,
+                        IN.uv
+                    );
+
+                textura *= _Color;
+
+                return half4(
+                    textura.rgb,
+                    1.0
+                );
             }
+
             ENDHLSL
         }
     }
-    FallBack "Universal Render Pipeline/Lit"
+
+    FallBack Off
 }
