@@ -233,6 +233,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -759,6 +764,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -1030,6 +1040,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelOmoplato
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -1357,6 +1372,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -1628,6 +1648,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaTibialAterior
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -2025,6 +2050,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaCavidadNasal
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -3159,6 +3189,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeLasCostillas
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -3989,6 +4024,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -4607,7 +4647,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -4893,6 +4933,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelTroncoEncefalico
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -5486,6 +5531,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelRectoAbdominal
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -6390,6 +6440,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -7020,6 +7075,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -7459,6 +7519,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeEstomago
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -7576,7 +7641,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -7912,6 +7977,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelCubito
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -8242,6 +8312,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeAstragalo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -8619,6 +8694,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -8890,6 +8970,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "PinDeH\xEDgado"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -9498,6 +9583,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -9781,6 +9871,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaSubclaviaIzquierda
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -10926,6 +11021,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelnervioPeroneoIzquierdo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -12322,6 +12422,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -12940,6 +13045,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelCraneo
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -13356,6 +13466,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaRadial
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -14140,6 +14255,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelPectoralMayor
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -14897,6 +15017,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'PinDeVesiculaBiliar '
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -15190,6 +15315,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaPoplitea
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -16328,6 +16458,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeOblicuo
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -16627,6 +16762,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaBraquiales
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -17447,6 +17587,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -17967,6 +18112,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -18329,7 +18479,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 504592829}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeNervioso
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18995,6 +19145,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -19469,6 +19624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pindelnerviociaticoderecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -20197,6 +20357,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -20637,6 +20802,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -21000,6 +21170,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeFemur
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -21445,6 +21620,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaPoplitea
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -22075,6 +22255,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelHemisferioDere
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -22767,7 +22952,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -23126,6 +23311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLasVertebras
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -23644,6 +23834,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelPulmonIzquierdo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -24638,6 +24833,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeLosHuesosCarpianos
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -25282,6 +25482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelnervioPeroneoDerecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -27483,7 +27688,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -29135,7 +29340,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 935371544}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeEsqueleto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29293,6 +29498,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaAxilar
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -29711,6 +29921,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaIliacaInterna
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -30338,6 +30553,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeConductosBiliares
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -30374,6 +30594,27 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 981960897}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &994764089 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6033742252131765594, guid: 0a7d2469f24041c4284c66706f84c45e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1130675470}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &994764097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 994764089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf8b969baeb3f40b02a8fa8a91dc99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  layersBloqueadas:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!1 &1001220257
 GameObject:
   m_ObjectHideFlags: 0
@@ -31193,6 +31434,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -31656,6 +31902,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -31927,6 +32178,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeFalangePie
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -32232,6 +32488,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeMetacarpianos
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -32808,7 +33069,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -33434,6 +33695,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelHumero
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -33761,6 +34027,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -34032,6 +34303,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeCiego
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -34307,6 +34583,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MusculoCigomaticoMayor
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -34610,6 +34891,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1760459382}
     m_Modifications:
+    - target: {fileID: 87850325270913972, guid: 0a7d2469f24041c4284c66706f84c45e,
+        type: 3}
+      propertyPath: _interactableFilters.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 87850325270913972, guid: 0a7d2469f24041c4284c66706f84c45e,
+        type: 3}
+      propertyPath: _interactableFilters.Array.data[0]
+      value: 
+      objectReference: {fileID: 994764097}
     - target: {fileID: 435407831072319256, guid: 0a7d2469f24041c4284c66706f84c45e,
         type: 3}
       propertyPath: _leftEyeAnchor
@@ -34742,6 +35033,10 @@ PrefabInstance:
         type: 3}
       insertIndex: 1
       addedObject: {fileID: 1130675473}
+    - targetCorrespondingSourceObject: {fileID: 6033742252131765594, guid: 0a7d2469f24041c4284c66706f84c45e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 994764097}
   m_SourcePrefab: {fileID: 100100000, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
 --- !u!4 &1130675471 stripped
 Transform:
@@ -34980,6 +35275,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelBronquioloIzq
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -35517,6 +35817,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaCubital
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -36179,7 +36484,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -36454,6 +36759,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeBoca
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -36865,6 +37175,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "PinDeCol\xF3n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -37574,7 +37889,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1253645242}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeRespiratorio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37967,6 +38282,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -38335,6 +38655,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -38606,6 +38931,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeTibia
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -39204,6 +39534,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -39513,6 +39848,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pindelnerviofemoralderecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -40016,6 +40356,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -40439,6 +40784,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelRadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -40975,6 +41325,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeLigamentoFalciforme
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -41237,6 +41592,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeCoxis
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -41743,6 +42103,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -42135,6 +42500,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -42504,6 +42874,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeFalanges
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -43472,6 +43847,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelPlexoBraquialIzquierdo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -44595,6 +44975,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -45232,6 +45617,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeIntestinoDelgado
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -47078,6 +47468,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelDeltoideAnterior
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -47414,6 +47809,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelTroncoCeliaco
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -48176,6 +48576,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -48805,6 +49210,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelEsternon
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -49522,7 +49932,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1610959526}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeMuscular
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49632,6 +50042,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelBiceps
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -49901,6 +50316,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDePerone
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -50203,6 +50623,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaSubclaviaDerecha
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -50570,6 +50995,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaAxilarIzquierda
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -52553,6 +52983,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -52872,6 +53307,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaMandibula
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -53196,6 +53636,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDePancreas
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -54224,6 +54669,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusculoelevadordelLabio
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -54492,6 +54942,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pindelnerviocubitalderecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -54803,6 +55258,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeEsofago
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -55482,6 +55942,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeAno
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -55744,6 +56209,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaBraquialDerecha
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -56104,6 +56574,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaTibialPosterior
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -56598,6 +57073,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'MusculoTemporal '
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -56897,6 +57377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelArcodelaAorta
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -57472,7 +57957,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -57989,6 +58474,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -58474,6 +58964,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDelMetacarpianoPie
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -58778,6 +59273,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaVenaTibialPosterior
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -59805,6 +60305,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeLaringe
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -60222,7 +60727,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1890067975}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeDigestivo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60384,6 +60889,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MusculoOccipitofrontal
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -60891,6 +61401,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -61206,6 +61721,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelnervioTibialDerecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -62874,6 +63394,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -63151,6 +63676,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeApendice
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -63482,6 +64012,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PindelaArteriaIliacaInterna
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -63860,6 +64395,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusculoOrbiculardelOjo
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -64128,6 +64668,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pindelcerebro
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -64469,6 +65014,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeTraquea
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -64891,6 +65441,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDelPlexoBraquialDerecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -65906,6 +66461,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusculoCigomaticoMenor
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -66106,7 +66666,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2073074943}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinesDeCirculatorio
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -66551,6 +67111,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -66822,6 +67387,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeCinturaPelvica
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
@@ -67365,6 +67935,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PinDeRecto
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
     m_RemovedGameObjects: []
@@ -67658,6 +68233,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pindelnervioradialderecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
         type: 3}
@@ -68011,6 +68591,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PinDeLaClavicula
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93cc3000994c9f249a6617d19f8de38f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3451118302482216456, guid: 93cc3000994c9f249a6617d19f8de38f, type: 3}
