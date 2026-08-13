@@ -6,9 +6,9 @@ public class TransferPosHeadToARWindow_VR : MonoBehaviour
     public Transform headAnchor;
 
     [Header("Modelo anatómico")]
-    public LayerMask modelLayerMask;      // capa asignada solo al collider proxy del modelo
+    public LayerMask modelLayerMask;
     public float maxDistance = 5f;
-    public float defaultDistance = 1f;    // usado si la mirada no toca el modelo
+    public float defaultDistance = 1f;
 
     [Header("Suavizado (recomendado para confort VR)")]
     public float smoothSpeed = 12f;
@@ -29,6 +29,10 @@ public class TransferPosHeadToARWindow_VR : MonoBehaviour
             targetPos = headAnchor.position + headAnchor.forward * defaultDistance;
         }
 
-        transform.position = Vector3.Lerp(transform.position, targetPos, Time.deltaTime * smoothSpeed);
+        transform.position = Vector3.Lerp(
+            transform.position,
+            targetPos,
+            Time.deltaTime * smoothSpeed
+        );
     }
 }
