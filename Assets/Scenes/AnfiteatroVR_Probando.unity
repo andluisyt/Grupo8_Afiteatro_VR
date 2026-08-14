@@ -2719,7 +2719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 1286864658}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -5456,7 +5456,7 @@ PrefabInstance:
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
       propertyPath: m_Name
-      value: InfoIsquiotibiales
+      value: InfDeBicepsFemoral
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -9354,7 +9354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 1450442833}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -12295,7 +12295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 661868134}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -16817,20 +16817,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El extensor de los dedos es un m\xFAsculo
+        superficial del compartimento posterior del antebrazo. Se origina principalmente
+        en el epic\xF3ndilo lateral del h\xFAmero a trav\xE9s del tend\xF3n extensor
+        com\xFAn. Su vientre muscular desciende por el antebrazo y se divide en cuatro
+        tendones que atraviesan el dorso de la mu\xF1eca para dirigirse hacia los
+        dedos \xEDndice, medio, anular y me\xF1ique. Estos tendones forman expansiones
+        extensoras sobre la superficie dorsal de los dedos.\n\nFunci\xF3n y cl\xEDnica:
+        Su funci\xF3n principal es extender los dedos segundo a quinto, especialmente
+        en las articulaciones metacarpofal\xE1ngicas, y contribuye tambi\xE9n a la
+        extensi\xF3n de las articulaciones interfal\xE1ngicas y de la mu\xF1eca.
+        Est\xE1 inervado por el nervio inter\xF3seo posterior, continuaci\xF3n de
+        la rama profunda del nervio radial. Es esencial para abrir la mano y liberar
+        objetos durante la manipulaci\xF3n. Lesiones tendinosas o nerviosas pueden
+        provocar dificultad para extender los dedos y alteraciones funcionales importantes
+        de la mano."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -18085,20 +18086,20 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El tibial anterior es un m\xFAsculo superficial
+        situado en el compartimento anterior de la pierna, inmediatamente lateral
+        al borde anterior de la tibia. Se origina principalmente en el c\xF3ndilo
+        lateral y la cara lateral superior de la tibia, adem\xE1s de la membrana
+        inter\xF3sea. Su tend\xF3n desciende por la parte anterior del tobillo y
+        se inserta en el hueso cuneiforme medial y en la base del primer metatarsiano.\n\nFunci\xF3n
+        y cl\xEDnica: Su funci\xF3n principal es realizar la dorsiflexi\xF3n del
+        tobillo, elevando el antepi\xE9 durante la marcha, y tambi\xE9n participa
+        en la inversi\xF3n del pie. Es especialmente importante durante la fase de
+        balanceo, ya que evita que los dedos arrastren sobre el suelo, y controla
+        el descenso del pie despu\xE9s del contacto del tal\xF3n. Est\xE1 inervado
+        por el nervio fibular profundo. La lesi\xF3n de este nervio o la debilidad
+        del m\xFAsculo pueden producir pie ca\xEDdo y alterar significativamente
+        el patr\xF3n normal de la marcha."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19705,20 +19706,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El trapecio es un m\xFAsculo amplio, plano
+        y superficial que cubre gran parte de la regi\xF3n posterior del cuello y
+        la parte superior de la espalda. Se origina en el hueso occipital, ligamento
+        nucal y procesos espinosos de las v\xE9rtebras cervicales y tor\xE1cicas
+        hasta T12. Sus fibras se insertan en el tercio lateral de la clav\xEDcula,
+        el acromion y la espina de la esc\xE1pula. Anat\xF3micamente se divide en
+        fibras superiores, medias e inferiores seg\xFAn su direcci\xF3n y funci\xF3n.\n\nFunci\xF3n
+        y cl\xEDnica: Las fibras superiores elevan la esc\xE1pula, las medias producen
+        retracci\xF3n y las inferiores contribuyen a su descenso. La acci\xF3n conjunta
+        de sus fibras permite la rotaci\xF3n superior de la esc\xE1pula, fundamental
+        para elevar el miembro superior por encima de la cabeza. Adem\xE1s, participa
+        en la estabilidad de la cintura escapular y en movimientos cervicales. Est\xE1
+        inervado principalmente por el nervio accesorio. Su sobrecarga puede producir
+        dolor cervical y escapular, mientras que una lesi\xF3n nerviosa puede causar
+        ca\xEDda del hombro y dificultad para elevarlo."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -24956,7 +24958,7 @@ PrefabInstance:
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
       propertyPath: m_Name
-      value: "InfoGl\xFAteoMedio"
+      value: InfoDelSartorio
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -31131,7 +31133,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculo Serrato Anterior"
+      value: "\nM\xFAsculo Tibial Anterior"
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -38107,7 +38109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 1430701568}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -40290,7 +40292,7 @@ PrefabInstance:
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
       propertyPath: m_Name
-      value: InfoSerratoAnterior
+      value: InfoTibialAnterior
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -46286,7 +46288,7 @@ PrefabInstance:
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
       propertyPath: m_Name
-      value: InfoDorsalAncho
+      value: InfoDelExtensordeLosDedos
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -47523,20 +47525,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El gl\xFAteo mayor es un m\xFAsculo grande,
+        grueso y superficial que ocupa la mayor parte de la regi\xF3n gl\xFAtea.
+        Se origina en la regi\xF3n posterior del ilion, sacro, c\xF3ccix y estructuras
+        ligamentarias asociadas. Sus fibras se dirigen hacia lateral e inferior para
+        insertarse principalmente en el tracto iliotibial y en la tuberosidad gl\xFAtea
+        del f\xE9mur. Es uno de los m\xFAsculos m\xE1s potentes del cuerpo humano
+        y constituye gran parte del volumen externo de la regi\xF3n gl\xFAtea.\n\nFunci\xF3n
+        y cl\xEDnica: Su funci\xF3n principal es extender y rotar lateralmente el
+        muslo en la articulaci\xF3n de la cadera. Act\xFAa con especial intensidad
+        al levantarse desde una posici\xF3n sentada, correr, saltar o subir pendientes
+        y escaleras. Tambi\xE9n contribuye a estabilizar la pelvis y el miembro inferior
+        durante la marcha. Est\xE1 inervado por el nervio gl\xFAteo inferior. La
+        debilidad del m\xFAsculo puede dificultar actividades que requieren extensi\xF3n
+        potente de la cadera, mientras que sobrecargas o traumatismos pueden provocar
+        dolor en la regi\xF3n gl\xFAtea."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -50727,7 +50730,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 66260528}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -50918,7 +50921,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculo Tibial Anterior"
+      value: "\nM\xFAsculo S\xF3leo"
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -51480,7 +51483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 405085869}
+  panelCorrespondiente: {fileID: 1698542439}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -53079,20 +53082,20 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El tr\xEDceps braquial es un m\xFAsculo
+        voluminoso situado en la regi\xF3n posterior del brazo. Est\xE1 formado por
+        tres cabezas: larga, lateral y medial. La cabeza larga se origina en el tub\xE9rculo
+        infraglenoideo de la esc\xE1pula, mientras que las cabezas lateral y medial
+        se originan en diferentes regiones de la cara posterior del h\xFAmero. Las
+        tres convergen en un tend\xF3n com\xFAn que se inserta principalmente en
+        el ol\xE9cranon de la ulna.\n\nFunci\xF3n y cl\xEDnica: Es el principal m\xFAsculo
+        responsable de la extensi\xF3n del antebrazo en la articulaci\xF3n del codo.
+        La cabeza larga tambi\xE9n participa en la extensi\xF3n y aducci\xF3n del
+        brazo y contribuye a estabilizar la articulaci\xF3n del hombro. Est\xE1 inervado
+        por el nervio radial. Es fundamental en movimientos de empuje, lanzamiento
+        y apoyo del miembro superior. Las lesiones pueden producir debilidad para
+        extender el codo y son frecuentes las tendinopat\xEDas en la regi\xF3n de
+        inserci\xF3n pr\xF3xima al ol\xE9cranon."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -54314,6 +54317,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: InfoEsternocleidomastoideo
+      objectReference: {fileID: 0}
+    - target: {fileID: 9021661640666677620, guid: 5cb37f59bf2d9cc47804254486d8982e,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677620, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -59111,7 +59119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 1260770607}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -60510,7 +60518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 2073932697}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -60887,7 +60895,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculo Gl\xFAteo Medio"
+      value: "\nM\xFAsculo Sartorio"
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -61586,7 +61594,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 163791429}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -62142,20 +62150,20 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El b\xEDceps femoral se encuentra en la
+        regi\xF3n posterior y lateral del muslo y forma parte del grupo de los m\xFAsculos
+        isquiotibiales. Presenta una cabeza larga, que se origina principalmente
+        en la tuberosidad isqui\xE1tica, y una cabeza corta, que nace de la regi\xF3n
+        posterior del f\xE9mur. Ambas cabezas descienden y forman un tend\xF3n com\xFAn
+        que se inserta principalmente en la cabeza de la f\xEDbula. La cabeza larga
+        atraviesa tanto la articulaci\xF3n de la cadera como la rodilla.\n\nFunci\xF3n
+        y cl\xEDnica: Su funci\xF3n principal es flexionar la rodilla y producir
+        rotaci\xF3n lateral de la pierna cuando esta se encuentra flexionada. La
+        cabeza larga tambi\xE9n participa en la extensi\xF3n de la cadera. Es esencial
+        durante la marcha, carrera y movimientos explosivos del miembro inferior.
+        Est\xE1 inervado por componentes del nervio ci\xE1tico. Los desgarros de
+        los isquiotibiales son frecuentes en actividades deportivas que requieren
+        aceleraciones r\xE1pidas, carreras o cambios bruscos de direcci\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -64788,20 +64796,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El cu\xE1driceps femoral es un gran grupo
+        muscular localizado en la regi\xF3n anterior del muslo. Est\xE1 formado principalmente
+        por el recto femoral, vasto lateral, vasto medial y vasto intermedio. El
+        recto femoral se origina en la pelvis, mientras que los m\xFAsculos vastos
+        nacen en diferentes superficies del f\xE9mur. Sus fibras convergen en el
+        tend\xF3n del cu\xE1driceps, que se inserta en la patela, continu\xE1ndose
+        hacia la tuberosidad tibial mediante el ligamento patelar.\n\nFunci\xF3n
+        y cl\xEDnica: Es el principal grupo muscular responsable de extender la rodilla
+        y resulta indispensable para ponerse de pie, caminar, correr, saltar y subir
+        escaleras. El recto femoral, debido a que cruza la cadera, tambi\xE9n participa
+        en la flexi\xF3n del muslo. Est\xE1 inervado por el nervio femoral. Adem\xE1s,
+        contribuye a estabilizar la articulaci\xF3n de la rodilla y la posici\xF3n
+        de la patela. Las lesiones musculares, tendinopat\xEDas y alteraciones del
+        mecanismo extensor pueden causar dolor y dificultad para caminar o extender
+        la pierna."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -65085,7 +65094,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculos Isquiotibiales"
+      value: "\nM\xFAsculo B\xEDceps Femoral"
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68254,20 +68263,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El s\xF3leo es un m\xFAsculo ancho y relativamente
+        plano situado en la regi\xF3n posterior de la pierna, inmediatamente profundo
+        al gastrocnemio. Se origina en las regiones posteriores de la tibia y la
+        f\xEDbula, adem\xE1s de un arco tendinoso que conecta ambos huesos. Sus fibras
+        descienden y se unen al tend\xF3n del gastrocnemio para formar el tend\xF3n
+        calc\xE1neo o tend\xF3n de Aquiles, que termina insert\xE1ndose en el calc\xE1neo.
+        Junto con el gastrocnemio constituye el tr\xEDceps sural.\n\nFunci\xF3n y
+        cl\xEDnica: Su principal funci\xF3n es producir flexi\xF3n plantar del tobillo
+        y desempe\xF1a un papel fundamental en el mantenimiento de la postura mientras
+        permanecemos de pie. Tambi\xE9n controla el avance de la pierna sobre el
+        pie durante la marcha y contribuye a la bomba muscular venosa de la extremidad
+        inferior. Est\xE1 inervado por el nervio tibial. La sobrecarga del s\xF3leo
+        es frecuente en corredores y puede provocar dolor profundo en la pantorrilla,
+        mientras que alteraciones del tr\xEDceps sural pueden afectar significativamente
+        la marcha."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68623,7 +68633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 181065284014564122}
+  panelCorrespondiente: {fileID: 127910634}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -69667,7 +69677,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gestorPaneles: {fileID: 963368520}
-  panelCorrespondiente: {fileID: 405085869}
+  panelCorrespondiente: {fileID: 1714965823}
   camaraVR: {fileID: 1466233387}
   orientarHaciaCamara: 1
   girarPanel180: 1
@@ -69796,7 +69806,7 @@ PrefabInstance:
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
       propertyPath: m_Name
-      value: InfoTibialAnterior
+      value: InfoSoleo
       objectReference: {fileID: 0}
     - target: {fileID: 9021661640666677619, guid: 5cb37f59bf2d9cc47804254486d8982e,
         type: 3}
@@ -72335,7 +72345,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculo Dorsal Ancho"
+      value: "\nM\xFAsculo Extensor de los Dedos"
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72635,20 +72645,21 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El gl\xFAteo mayor es un m\xFAsculo grande,
+        grueso y superficial que ocupa la mayor parte de la regi\xF3n gl\xFAtea.
+        Se origina en la regi\xF3n posterior del ilion, sacro, c\xF3ccix y estructuras
+        ligamentarias asociadas. Sus fibras se dirigen hacia lateral e inferior para
+        insertarse principalmente en el tracto iliotibial y en la tuberosidad gl\xFAtea
+        del f\xE9mur. Es uno de los m\xFAsculos m\xE1s potentes del cuerpo humano
+        y constituye gran parte del volumen externo de la regi\xF3n gl\xFAtea.\n\nFunci\xF3n
+        y cl\xEDnica: Su funci\xF3n principal es extender y rotar lateralmente el
+        muslo en la articulaci\xF3n de la cadera. Act\xFAa con especial intensidad
+        al levantarse desde una posici\xF3n sentada, correr, saltar o subir pendientes
+        y escaleras. Tambi\xE9n contribuye a estabilizar la pelvis y el miembro inferior
+        durante la marcha. Est\xE1 inervado por el nervio gl\xFAteo inferior. La
+        debilidad del m\xFAsculo puede dificultar actividades que requieren extensi\xF3n
+        potente de la cadera, mientras que sobrecargas o traumatismos pueden provocar
+        dolor en la regi\xF3n gl\xFAtea."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -99051,6 +99062,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7086689073696072240, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7086689073696072240, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
       propertyPath: m_ReceivesEvents
       value: 0
       objectReference: {fileID: 0}
@@ -99167,7 +99183,7 @@ PrefabInstance:
     - target: {fileID: 7086689073696072247, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7086689073696072247, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -108363,7 +108379,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1430701566}
+      addedObject: {fileID: 1714965821}
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
@@ -108371,11 +108387,11 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1450442831}
+      addedObject: {fileID: 1430701566}
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1260770605}
+      addedObject: {fileID: 1450442831}
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
@@ -108384,6 +108400,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 163791427}
+    - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1260770605}
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
@@ -108396,10 +108416,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 2073932695}
-    - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1714965821}
     - targetCorrespondingSourceObject: {fileID: 3907613448903019609, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       insertIndex: -1
