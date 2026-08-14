@@ -475,7 +475,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -2338,20 +2338,19 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El elevador del labio superior es un m\xFAsculo
+        facial situado lateralmente a la nariz y profundamente respecto de algunos
+        m\xFAsculos superficiales de la regi\xF3n media de la cara. Se origina principalmente
+        en el margen infraorbitario del maxilar y sus fibras descienden hacia el
+        labio superior, donde se mezclan con otros m\xFAsculos de la expresi\xF3n
+        facial y con el orbicular de la boca.\n\nFunci\xF3n y cl\xEDnica: Su funci\xF3n
+        principal es elevar el labio superior y aumentar la profundidad del surco
+        nasolabial, participando en expresiones faciales como mostrar los dientes
+        superiores. Trabaja en conjunto con otros m\xFAsculos periorales durante
+        la comunicaci\xF3n, alimentaci\xF3n y diferentes gestos emocionales. Est\xE1
+        inervado por ramas del nervio facial. Las lesiones de este nervio pueden
+        producir debilidad o asimetr\xEDa en los movimientos del labio superior y
+        alterar parcialmente la expresi\xF3n facial."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -2381,7 +2380,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -2507,6 +2506,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -2926,20 +2930,20 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El temporal es un m\xFAsculo amplio y con
+        forma de abanico localizado en la regi\xF3n lateral del cr\xE1neo, ocupando
+        gran parte de la fosa temporal. Se origina en el suelo de dicha fosa y en
+        la fascia temporal. Sus fibras convergen hacia abajo para pasar profundamente
+        al arco cigom\xE1tico e insertarse principalmente en el proceso coronoides
+        y borde anterior de la rama de la mand\xEDbula. Forma parte del grupo de
+        m\xFAsculos de la masticaci\xF3n.\n\nFunci\xF3n y cl\xEDnica: Su funci\xF3n
+        principal es elevar la mand\xEDbula, permitiendo cerrar la boca con fuerza
+        durante la masticaci\xF3n. Sus fibras posteriores tambi\xE9n participan en
+        la retracci\xF3n mandibular. Est\xE1 inervado por ramas profundas del nervio
+        mandibular, divisi\xF3n del nervio trig\xE9mino. La tensi\xF3n excesiva del
+        m\xFAsculo temporal puede asociarse con bruxismo, dolor facial y cefaleas,
+        especialmente en personas que mantienen una contracci\xF3n repetitiva de
+        los m\xFAsculos masticatorios."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -2969,7 +2973,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -3095,6 +3099,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -9720,7 +9729,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -9810,12 +9819,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -12530,20 +12539,19 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El cigom\xE1tico mayor es un m\xFAsculo
+        alargado de la expresi\xF3n facial que se extiende desde el hueso cigom\xE1tico
+        hasta la comisura de los labios. Se encuentra superficialmente en la regi\xF3n
+        lateral de la mejilla y se dirige en sentido inferomedial. En la comisura
+        bucal sus fibras se mezclan con otros m\xFAsculos faciales formando parte
+        de una compleja uni\xF3n muscular conocida como modiolo.\n\nFunci\xF3n y
+        cl\xEDnica: Su acci\xF3n principal es desplazar la comisura de la boca hacia
+        arriba y lateralmente, convirti\xE9ndolo en uno de los m\xFAsculos m\xE1s
+        importantes durante la sonrisa. Participa tambi\xE9n en diferentes expresiones
+        emocionales y en la comunicaci\xF3n no verbal. Est\xE1 inervado por ramas
+        del nervio facial. Una lesi\xF3n unilateral del nervio puede generar una
+        sonrisa asim\xE9trica debido a la incapacidad para elevar adecuadamente la
+        comisura labial del lado afectado."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -12573,7 +12581,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -12699,6 +12707,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -12946,20 +12959,19 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El cigom\xE1tico menor es un m\xFAsculo
+        delgado de la expresi\xF3n facial situado en la regi\xF3n superior y lateral
+        de la mejilla, medial respecto al cigom\xE1tico mayor. Se origina en el hueso
+        cigom\xE1tico y desciende en direcci\xF3n inferomedial para insertarse en
+        la piel y musculatura del labio superior. Sus fibras se mezclan con otros
+        m\xFAsculos responsables de controlar el movimiento de los labios y la regi\xF3n
+        nasolabial.\n\nFunci\xF3n y cl\xEDnica: Su principal funci\xF3n es elevar
+        el labio superior y contribuir a la expresi\xF3n facial, especialmente durante
+        gestos relacionados con la sonrisa. Tambi\xE9n ayuda a acentuar el surco
+        nasolabial. Est\xE1 inervado por ramas cigom\xE1ticas y bucales del nervio
+        facial. Las alteraciones del nervio facial pueden disminuir su actividad
+        y producir asimetr\xEDa de los labios y las mejillas durante la sonrisa o
+        determinados movimientos faciales."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -12989,7 +13001,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -13115,6 +13127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -14619,7 +14636,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -14745,6 +14762,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -16861,7 +16883,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -16931,7 +16953,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -16961,7 +16983,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 68.5
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -16987,6 +17009,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -17830,7 +17857,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -18129,7 +18156,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -18255,6 +18282,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -19418,7 +19450,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19483,7 +19520,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19508,12 +19545,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19820,7 +19857,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19845,12 +19882,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 3
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 68.5
+      value: 62
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -19876,6 +19913,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -20955,7 +20997,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -23324,7 +23366,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -23549,7 +23591,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -25445,7 +25487,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27052,20 +27094,19 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El occipitofrontal es un m\xFAsculo superficial
+        del cuero cabelludo formado principalmente por un vientre frontal y un vientre
+        occipital, conectados mediante una amplia estructura tendinosa denominada
+        aponeurosis epicraneal. El vientre frontal se extiende hacia la piel de las
+        cejas y la frente, mientras que el occipital se relaciona con la regi\xF3n
+        posterior del cr\xE1neo. Forma parte del conjunto de m\xFAsculos responsables
+        de la expresi\xF3n facial.\n\nFunci\xF3n y cl\xEDnica: El vientre frontal
+        eleva las cejas y produce las arrugas horizontales de la frente, participando
+        en expresiones de sorpresa y atenci\xF3n. El vientre occipital ayuda a retraer
+        el cuero cabelludo y estabiliza la aponeurosis epicraneal. Est\xE1 controlado
+        por ramas del nervio facial. La debilidad del nervio facial puede disminuir
+        la capacidad para elevar la ceja y producir asimetr\xEDa de la frente, lo
+        que resulta \xFAtil durante la evaluaci\xF3n neurol\xF3gica facial."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27095,7 +27136,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27165,7 +27206,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27190,12 +27231,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2.4500122
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 69.3
+      value: 47
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27221,6 +27262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -27363,20 +27409,20 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El esternocleidomastoideo es un m\xFAsculo
+        superficial y prominente situado a ambos lados del cuello. Posee una cabeza
+        esternal que se origina en el manubrio del estern\xF3n y una cabeza clavicular
+        originada en la porci\xF3n medial de la clav\xEDcula. Ambas ascienden oblicuamente
+        para insertarse en el proceso mastoides del hueso temporal y la l\xEDnea
+        nucal superior. Es un importante punto de referencia anat\xF3mico que divide
+        cada lado del cuello en los tri\xE1ngulos anterior y posterior.\n\nFunci\xF3n
+        y cl\xEDnica: La contracci\xF3n unilateral inclina la cabeza hacia el mismo
+        lado y la rota hacia el lado contrario, mientras que la contracci\xF3n bilateral
+        participa en la flexi\xF3n cervical. Tambi\xE9n puede funcionar como m\xFAsculo
+        accesorio de la inspiraci\xF3n al ayudar a elevar el t\xF3rax cuando la cabeza
+        se encuentra fija. Est\xE1 inervado principalmente por el nervio accesorio.
+        Las contracturas pueden provocar tort\xEDcolis, dolor y restricci\xF3n de
+        los movimientos cervicales."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27406,7 +27452,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -27532,6 +27578,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -29099,7 +29150,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -29225,6 +29276,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -30142,6 +30198,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -31165,7 +31226,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -33666,7 +33727,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -44329,20 +44390,19 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El orbicular del ojo es un m\xFAsculo circular
+        que rodea la abertura de la \xF3rbita y se encuentra inmediatamente debajo
+        de la piel de los p\xE1rpados y regiones circundantes. Se divide habitualmente
+        en porciones orbitaria, palpebral y lagrimal. Sus fibras rodean el ojo y
+        se relacionan estrechamente con los p\xE1rpados y el aparato lagrimal. Es
+        uno de los principales m\xFAsculos de la expresi\xF3n facial y est\xE1 inervado
+        por el nervio facial.\n\nFunci\xF3n y cl\xEDnica: Su funci\xF3n principal
+        es cerrar los p\xE1rpados. La porci\xF3n palpebral permite el parpadeo suave
+        e involuntario, mientras que la porci\xF3n orbitaria produce un cierre fuerte
+        del ojo. Este mecanismo protege la superficie ocular y ayuda a distribuir
+        las l\xE1grimas sobre la c\xF3rnea. Las lesiones del nervio facial pueden
+        impedir el cierre completo del p\xE1rpado, dejando la superficie ocular expuesta
+        y aumentando el riesgo de sequedad e irritaci\xF3n corneal."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -44372,7 +44432,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -44498,6 +44558,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -45828,7 +45893,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -47269,7 +47334,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -47395,6 +47460,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -47669,7 +47739,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 68.5
+      value: 56
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -47695,6 +47765,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -50953,12 +51028,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -51048,7 +51123,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -53125,7 +53200,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -53251,6 +53326,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -55742,7 +55822,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -56051,7 +56131,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -57238,12 +57318,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -57328,12 +57408,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -58482,7 +58562,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -59559,12 +59639,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -59649,12 +59729,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -60927,12 +61007,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -61017,12 +61097,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -62193,7 +62273,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -62263,7 +62343,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -62288,12 +62368,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 69
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -62319,6 +62399,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -64840,7 +64925,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -64910,7 +64995,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -64940,7 +65025,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 68.5
+      value: 51
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -64966,6 +65051,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -65126,7 +65216,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -65191,7 +65281,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -65216,12 +65306,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -65666,7 +65756,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68307,7 +68397,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68377,7 +68467,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68402,12 +68492,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2.5
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 69
+      value: 55
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -68433,6 +68523,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -71866,12 +71961,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72377,12 +72472,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72442,7 +72537,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72467,12 +72562,12 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72759,7 +72854,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72789,7 +72884,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 68
+      value: 57
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529974, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -72815,6 +72910,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324653313682529975, guid: d0f5d921837d4d74ab139feae0f837f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 13250658670100666, guid: d0f5d921837d4d74ab139feae0f837f5, type: 3}
@@ -73171,6 +73271,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 121123726874790792, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 128598307660540639, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73585,7 +73690,7 @@ PrefabInstance:
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73601,6 +73706,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 308166938321785550, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 308166938321785551, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73685,7 +73795,7 @@ PrefabInstance:
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73701,6 +73811,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 333108055743301722, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 333108055743301723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73772,7 +73887,7 @@ PrefabInstance:
     - target: {fileID: 358451591581276058, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 358451591581276058, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73866,6 +73981,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 368382213370524979, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 388497277294350721, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73997,6 +74117,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 398485149404456024, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 398485149404456025, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -74025,20 +74150,19 @@ PrefabInstance:
     - target: {fileID: 398485149404456026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El recto abdominal es un m\xFAsculo largo
+        y vertical situado a cada lado de la l\xEDnea media de la pared anterior
+        del abdomen. Se origina en la cresta y s\xEDnfisis del pubis y asciende para
+        insertarse en el proceso xifoides y los cart\xEDlagos costales de las costillas
+        quinta a s\xE9ptima. Est\xE1 contenido dentro de la vaina de los rectos y
+        presenta varias intersecciones tendinosas transversales responsables de la
+        apariencia segmentada caracter\xEDstica del abdomen.\n\nFunci\xF3n y cl\xEDnica:
+        Tambi\xE9n comprime el contenido abdominal, estabiliza la pelvis y participa
+        en la espiraci\xF3n forzada. Trabaja junto con otros m\xFAsculos abdominales
+        para mantener la estabilidad del tronco durante los movimientos de las extremidades.
+        La debilidad o separaci\xF3n de ambos rectos puede producir di\xE1stasis
+        abdominal, mientras que las sobrecargas deportivas pueden causar distensiones
+        musculares."
       objectReference: {fileID: 0}
     - target: {fileID: 398485149404456026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -74080,7 +74204,7 @@ PrefabInstance:
     - target: {fileID: 398485149404456026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 398485149404456026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -74126,6 +74250,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 407135251174480497, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 407135251174480499, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -74557,6 +74686,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 584798686756309327, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 596168548922931289, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: onTypingFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -74596,6 +74730,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 695668442666264428, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 695668442666264429, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75026,6 +75165,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 834051346087952579, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 839121224257423164, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: onTypingFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -75283,7 +75427,7 @@ PrefabInstance:
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75319,6 +75463,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 871044105365825343, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 897856939317741856, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75383,7 +75532,7 @@ PrefabInstance:
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75419,6 +75568,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 910335706002980683, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 962995234025982260, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75608,6 +75762,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 985763046559906734, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 985763046559906735, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -75719,6 +75878,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1042143403740650849, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1042143403740650851, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75930,7 +76094,7 @@ PrefabInstance:
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75946,6 +76110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126745559298339950, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1126745559298339951, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75971,6 +76140,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132537557309014310, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1155348804770590696, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76186,6 +76360,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1191693214242183384, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1191693214242183385, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -76321,6 +76500,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1244922808683295901, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -76379,7 +76563,7 @@ PrefabInstance:
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76712,7 +76896,7 @@ PrefabInstance:
     - target: {fileID: 1342083692204537319, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1342083692204537319, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76728,6 +76912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1349142029156203560, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1349142029156203561, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76851,6 +77040,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1436186029923379964, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1436186029923379965, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77044,6 +77238,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1546318538067047244, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1546318538067047245, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -77122,7 +77321,7 @@ PrefabInstance:
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77356,6 +77555,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1568464220082278539, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1573692782321801113, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77707,6 +77911,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1683879050797744683, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1685325081650361205, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -77884,6 +78093,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1704148875616450605, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1704148876222180539, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -77978,6 +78192,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1704148876788893217, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1704148876788893219, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78421,7 +78640,7 @@ PrefabInstance:
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78458,6 +78677,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1780793496044758915, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1784251851741590976, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -78482,6 +78706,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1784251851741590977, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78541,7 +78770,7 @@ PrefabInstance:
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78583,7 +78812,7 @@ PrefabInstance:
     - target: {fileID: 1812249797361724633, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1812249797361724633, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78650,6 +78879,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1866783837604796721, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -78708,7 +78942,7 @@ PrefabInstance:
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78724,6 +78958,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876605138354480724, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1876605138354480725, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79323,7 +79562,7 @@ PrefabInstance:
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79339,6 +79578,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992155206438843790, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1992155206438843791, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79833,7 +80077,7 @@ PrefabInstance:
     - target: {fileID: 2172255380209698075, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2172255380209698075, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -80500,7 +80744,7 @@ PrefabInstance:
     - target: {fileID: 2354214476017865035, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2354214476017865035, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81306,6 +81550,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2583611434500038334, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2583611434500038335, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -81404,7 +81653,7 @@ PrefabInstance:
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81446,6 +81695,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2610116372847541971, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2616544377401993501, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -81475,6 +81729,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619165576410697285, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2619165576410697287, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81825,7 +82084,7 @@ PrefabInstance:
     - target: {fileID: 2641199549609168959, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2641199549609168959, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81836,6 +82095,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2648101478992985160, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2648101478992985161, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81949,12 +82213,12 @@ PrefabInstance:
     - target: {fileID: 2662079200379621963, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2662079200379621963, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82014,7 +82278,7 @@ PrefabInstance:
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82030,6 +82294,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2663818891534525062, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2663818891534525063, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82354,7 +82623,7 @@ PrefabInstance:
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82370,6 +82639,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2810633154391219662, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2810633154391219663, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82578,6 +82852,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2840807119248717793, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2840807119248717795, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -82714,7 +82993,7 @@ PrefabInstance:
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82730,6 +83009,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2888794573579232258, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2888794573579232259, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83024,6 +83308,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3017768078666498595, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3038313389896911258, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: onTypingFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -83058,6 +83347,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095750604047898537, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3095750604047898539, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83522,7 +83816,7 @@ PrefabInstance:
     - target: {fileID: 3188631496955011724, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 3188631496955011724, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83538,6 +83832,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3188631496955011726, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3188631496955011727, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83637,6 +83936,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3213360627889856326, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3213360627889856327, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -83734,6 +84038,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3229802448437301238, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3229802448437301239, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -84670,6 +84979,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3508470949364089851, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -84728,7 +85042,7 @@ PrefabInstance:
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -84744,6 +85058,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3516072198571418790, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3516072198571418791, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85151,7 +85470,7 @@ PrefabInstance:
     - target: {fileID: 3622938797749854404, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 3622938797749854404, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85182,6 +85501,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3669525660997912204, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3669525660997912205, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85572,7 +85896,7 @@ PrefabInstance:
     - target: {fileID: 3746924521935090904, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 3746924521935090904, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85588,6 +85912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3751598430336942112, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3751598430336942113, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86254,6 +86583,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3832901327470989398, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3832901327470989399, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -86324,7 +86658,7 @@ PrefabInstance:
     - target: {fileID: 3855984523630190313, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3855984523630190314, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86406,7 +86740,7 @@ PrefabInstance:
     - target: {fileID: 3875413000111154264, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 3875413000111154264, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86527,7 +86861,7 @@ PrefabInstance:
     - target: {fileID: 3933553670529586055, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 3933553670529586055, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86664,6 +86998,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3938691325872674701, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3938691326205805339, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -86758,6 +87097,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3938691326778829185, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3938691326778829187, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86878,6 +87222,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944432648043114422, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3944432648043114423, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87031,6 +87380,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3979217992607361990, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3979217992607361991, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -87060,6 +87414,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982552837129132036, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3982552837129132037, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87144,7 +87503,7 @@ PrefabInstance:
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87202,7 +87561,7 @@ PrefabInstance:
     - target: {fileID: 4000181957250893273, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4000181957250893273, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87244,10 +87603,20 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4000181957250893275, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4004910737056009748, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4004910737056009748, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4005253088095737456, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87273,6 +87642,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4005253088095737457, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4005253088095737459, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87790,7 +88164,7 @@ PrefabInstance:
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87831,6 +88205,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064304750065833879, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4076859151316548503, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88132,6 +88511,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4104177859603461615, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4117332729823788127, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -88166,6 +88550,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154558874056451601, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4154558874056451603, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88405,6 +88794,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4194518882868992000, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4194518882868992001, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -88488,7 +88882,7 @@ PrefabInstance:
     - target: {fileID: 4194518882868992002, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4194518882868992002, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88544,6 +88938,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4221711074479977577, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88603,7 +89002,7 @@ PrefabInstance:
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88853,6 +89252,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4345258997819823414, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4345258997819823415, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -89018,6 +89422,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4379877473726101624, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4379877473726101625, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -89101,7 +89510,7 @@ PrefabInstance:
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89333,6 +89742,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4478407226878564433, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -89391,7 +89805,7 @@ PrefabInstance:
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89490,6 +89904,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4501024110773032435, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4503627796489586355, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89699,7 +90118,7 @@ PrefabInstance:
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89735,6 +90154,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510475187750856719, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4512499599382925819, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89811,7 +90235,7 @@ PrefabInstance:
     - target: {fileID: 4522927140395098082, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4522927140395098082, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89880,7 +90304,7 @@ PrefabInstance:
     - target: {fileID: 4527592163176531271, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4527592163176531271, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89891,6 +90315,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4537185899460044800, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4537185899460044801, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89952,7 +90381,7 @@ PrefabInstance:
     - target: {fileID: 4537185899460044802, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4537185899460044802, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90312,7 +90741,7 @@ PrefabInstance:
     - target: {fileID: 4614487283943675993, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 4614487283943675993, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90383,6 +90812,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625147595384526105, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4625147595384526107, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90481,6 +90915,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4684502650519289001, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4684502650519289003, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90813,6 +91252,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4799040630063706561, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4799040630063706563, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -91282,6 +91726,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4915441384252121735, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4915535724663263096, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: onTypingFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -91374,7 +91823,7 @@ PrefabInstance:
     - target: {fileID: 4930423460001383176, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4930423460001383176, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -91410,6 +91859,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4943476934048906593, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4943476934048906595, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -91952,6 +92406,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5078219443598648641, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5078219443598648643, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -92103,6 +92562,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5146557449841385062, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5146557449841385063, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -92158,7 +92622,7 @@ PrefabInstance:
     - target: {fileID: 5168460575041728905, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 5168460575041728905, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -92777,6 +93241,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5321402048438322779, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5331008285878452992, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Enabled
@@ -92962,7 +93431,7 @@ PrefabInstance:
     - target: {fileID: 5363277110704272497, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5363277110704272497, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -92977,12 +93446,12 @@ PrefabInstance:
     - target: {fileID: 5363277110704272498, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -8
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5363277110704272498, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 47
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 5363277110704272499, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -92993,6 +93462,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5365688338416028824, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5365688338416028825, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93077,7 +93551,7 @@ PrefabInstance:
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93126,7 +93600,7 @@ PrefabInstance:
     - target: {fileID: 5391261759791574876, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 5391261759791574876, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93386,6 +93860,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5460135848385442774, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5460135848385442775, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -93526,6 +94005,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5483289209793694891, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5492186635144070860, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -93588,6 +94072,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5492186635144070862, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5492186635144070863, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93713,6 +94202,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5494989342240097302, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5494989342240097303, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93872,6 +94366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5566751339684819121, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5566751339684819123, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -94460,6 +94959,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5769790525739360267, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5814653639530848821, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -94666,7 +95170,7 @@ PrefabInstance:
     - target: {fileID: 5843039983973474908, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 5843039983973474908, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -94682,6 +95186,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843039983973474910, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5843039983973474911, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95138,7 +95647,7 @@ PrefabInstance:
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95179,6 +95688,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5957837783951269399, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5973229259021196307, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95422,7 +95936,7 @@ PrefabInstance:
     - target: {fileID: 6012373788327292651, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6012373788327292651, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95616,6 +96130,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6136694013924508913, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -95674,7 +96193,7 @@ PrefabInstance:
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95705,6 +96224,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6159361965637816616, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6159361965637816617, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95784,7 +96308,7 @@ PrefabInstance:
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96133,6 +96657,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6231420570971328885, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6231420570971328887, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -96195,6 +96724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6241806188342796024, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6241806188342796025, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96685,6 +97219,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6418094887196018861, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6418094887196018863, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Color.b
@@ -96709,6 +97248,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6418094888101623457, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6418094888720097840, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6418094888720097840, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96793,7 +97342,7 @@ PrefabInstance:
     - target: {fileID: 6418094888720097847, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6418094888720097847, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96862,7 +97411,7 @@ PrefabInstance:
     - target: {fileID: 6450676160292231751, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6450676160292231751, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97116,6 +97665,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6555238220404666821, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -97174,7 +97728,7 @@ PrefabInstance:
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97366,20 +97920,20 @@ PrefabInstance:
     - target: {fileID: 6562548066916836869, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El pectoral mayor es un m\xFAsculo grande,
+        grueso y superficial localizado en la regi\xF3n anterior del t\xF3rax. Presenta
+        principalmente una porci\xF3n clavicular y otra esternocostal. Se origina
+        en la mitad medial de la clav\xEDcula, el estern\xF3n, los cart\xEDlagos
+        costales superiores y la aponeurosis del m\xFAsculo oblicuo externo. Sus
+        fibras convergen lateralmente para insertarse en el h\xFAmero, espec\xEDficamente
+        en el labio lateral del surco intertubercular.\n\nFunci\xF3n y cl\xEDnica:
+        Su funci\xF3n principal es aducir y rotar medialmente el brazo. La porci\xF3n
+        clavicular participa en la flexi\xF3n del hombro, mientras que la esternocostal
+        puede ayudar a extender el brazo desde una posici\xF3n flexionada. Es un
+        m\xFAsculo fundamental en movimientos de empuje, abrazo y aproximaci\xF3n
+        del brazo al cuerpo. Las lesiones suelen producirse durante ejercicios de
+        fuerza como el press de banca y pueden variar desde peque\xF1as distensiones
+        hasta roturas completas del tend\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 6562548066916836869, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97421,7 +97975,7 @@ PrefabInstance:
     - target: {fileID: 6562548066916836869, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6562548066916836869, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97462,6 +98016,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562548066916836871, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6573578770538522123, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97813,6 +98372,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6719720512831933233, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -97871,7 +98435,7 @@ PrefabInstance:
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97925,7 +98489,7 @@ PrefabInstance:
     - target: {fileID: 6741134349089477500, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6741134349089477500, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97951,6 +98515,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6794597611397473412, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6794597611397473413, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98030,7 +98599,7 @@ PrefabInstance:
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98135,10 +98704,20 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6823302716623266799, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6827227513557488312, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6827227513557488312, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6827227513557488313, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98683,20 +99262,20 @@ PrefabInstance:
     - target: {fileID: 6931960683123234189, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El b\xEDceps braquial es un m\xFAsculo
+        superficial situado en la regi\xF3n anterior del brazo. Posee dos cabezas:
+        una cabeza larga, que se origina en el tub\xE9rculo supraglenoideo de la
+        esc\xE1pula, y una cabeza corta, que nace en el proceso coracoides. Ambas
+        se unen formando un vientre muscular com\xFAn que termina mediante un tend\xF3n
+        en la tuberosidad del radio. Tambi\xE9n presenta una expansi\xF3n aponeur\xF3tica
+        denominada aponeurosis bicipital.\n\nFunci\xF3n y cl\xEDnica: Es un potente
+        supinador del antebrazo y participa de manera importante en la flexi\xF3n
+        del codo. Tambi\xE9n contribuye a la flexi\xF3n del hombro y ayuda a estabilizar
+        la articulaci\xF3n glenohumeral. Est\xE1 especialmente activo al levantar
+        objetos con la palma orientada hacia arriba. Las tendinopat\xEDas de la cabeza
+        larga son frecuentes en actividades repetitivas del hombro, mientras que
+        la rotura distal del tend\xF3n puede provocar una disminuci\xF3n considerable
+        de la fuerza de supinaci\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 6931960683123234189, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98780,10 +99359,20 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6931960683123234191, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6942024517265043932, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942024517265043932, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6942024517265043933, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -99063,7 +99652,7 @@ PrefabInstance:
     - target: {fileID: 7086689073696072240, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7086689073696072240, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -99183,7 +99772,7 @@ PrefabInstance:
     - target: {fileID: 7086689073696072247, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7086689073696072247, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -99356,6 +99945,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7104834973773719703, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7110956804734639572, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -99706,6 +100300,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7306205469084101577, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -99764,7 +100363,7 @@ PrefabInstance:
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -99968,7 +100567,7 @@ PrefabInstance:
     - target: {fileID: 7332627436451675134, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7332627436451675134, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100157,7 +100756,7 @@ PrefabInstance:
     - target: {fileID: 7348151909397433602, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7348151909397433602, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100226,6 +100825,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7351937157408817234, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7351937157408817235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100583,20 +101187,19 @@ PrefabInstance:
     - target: {fileID: 7423634459062468464, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La porci\xF3n anterior del deltoides forma
+        la parte frontal del m\xFAsculo deltoides, que recubre la articulaci\xF3n
+        del hombro. Sus fibras se originan principalmente en el tercio lateral de
+        la clav\xEDcula y descienden para unirse con las dem\xE1s porciones del deltoides
+        e insertarse en la tuberosidad deltoidea del h\xFAmero. Se encuentra superficialmente
+        sobre estructuras importantes de la articulaci\xF3n glenohumeral y trabaja
+        en coordinaci\xF3n con el manguito rotador.\n\nFunci\xF3n y cl\xEDnica: Su
+        funci\xF3n principal es producir flexi\xF3n del brazo en la articulaci\xF3n
+        del hombro y contribuir a su rotaci\xF3n medial. Tambi\xE9n participa en
+        la aducci\xF3n horizontal, como ocurre al empujar un objeto hacia delante.
+        Es importante en actividades como lanzar, levantar objetos y realizar movimientos
+        de empuje. Las sobrecargas repetitivas pueden producir dolor en la regi\xF3n
+        anterior del hombro."
       objectReference: {fileID: 0}
     - target: {fileID: 7423634459062468464, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100626,7 +101229,7 @@ PrefabInstance:
     - target: {fileID: 7423634459062468464, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7423634459062468464, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100642,6 +101245,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7423634459062468466, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7423634459062468467, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100755,6 +101363,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7432341724020062803, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7447905580721929037, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101079,7 +101692,7 @@ PrefabInstance:
     - target: {fileID: 7465170715444895576, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "\nM\xFAsculo Deltoides (Porci\xF3n Anterior)"
+      value: "\nM\xFAsculo Deltoides"
       objectReference: {fileID: 0}
     - target: {fileID: 7465170715444895576, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101111,12 +101724,12 @@ PrefabInstance:
     - target: {fileID: 7465170715444895576, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7465170715444895576, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7465170715444895578, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101181,7 +101794,7 @@ PrefabInstance:
     - target: {fileID: 7465745013363951485, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7465745013363951485, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101222,6 +101835,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7465745013363951487, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7500102684907176493, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101624,7 +102242,7 @@ PrefabInstance:
     - target: {fileID: 7562922339849166599, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7562922339849166599, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101932,6 +102550,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7617552150018267474, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7650408568877894956, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -101990,7 +102613,7 @@ PrefabInstance:
     - target: {fileID: 7650408568877894956, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7650408568877894956, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102006,6 +102629,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7650408568877894958, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7650408568877894959, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102068,6 +102696,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670657888574273920, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7670657888574273921, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102152,7 +102785,7 @@ PrefabInstance:
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102167,20 +102800,18 @@ PrefabInstance:
     - target: {fileID: 7675825051771547224, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El oblicuo externo es un m\xFAsculo ancho
+        y superficial situado en las paredes laterales y anterior del abdomen. Se
+        origina en las superficies externas de las costillas quinta a duod\xE9cima
+        y sus fibras descienden en direcci\xF3n inferomedial. Se inserta en la l\xEDnea
+        alba, el tub\xE9rculo del pubis y la mitad anterior de la cresta il\xEDaca.
+        Su aponeurosis contribuye a formar la vaina del m\xFAsculo recto abdominal
+        y, en su borde inferior, participa en la formaci\xF3n del ligamento inguinal.\n\nFunci\xF3n
+        y cl\xEDnica: Participa tambi\xE9n en la espiraci\xF3n forzada y en el aumento
+        de la presi\xF3n intraabdominal. Es importante para la estabilidad del tronco
+        durante movimientos funcionales. La debilidad de la pared abdominal puede
+        favorecer alteraciones posturales y determinadas hernias, mientras que las
+        distensiones musculares pueden aparecer durante movimientos bruscos de rotaci\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 7675825051771547224, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102222,7 +102853,7 @@ PrefabInstance:
     - target: {fileID: 7675825051771547224, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 7675825051771547224, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102238,6 +102869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7675825051771547226, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7675825051771547227, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102331,6 +102967,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7696850869016385848, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7712823392228166406, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -102373,7 +103014,7 @@ PrefabInstance:
     - target: {fileID: 7716789396902479640, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7716789396902479640, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102659,6 +103300,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7743662994413792486, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7743662994413792487, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102994,6 +103640,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8017747977713712324, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8017747977713712325, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -103077,7 +103728,7 @@ PrefabInstance:
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103239,6 +103890,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8059395641079696224, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8059395641079696226, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
@@ -103276,7 +103932,7 @@ PrefabInstance:
     - target: {fileID: 8059395641079696226, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8059395641079696226, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103457,6 +104113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8105513002781961480, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8105513002781961481, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104038,7 +104699,7 @@ PrefabInstance:
     - target: {fileID: 8230867535043944548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8230867535043944548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104203,7 +104864,7 @@ PrefabInstance:
     - target: {fileID: 8254610921301993713, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8254610921301993713, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104885,7 +105546,7 @@ PrefabInstance:
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104901,6 +105562,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374100487349532530, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8374100487349532531, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -105410,6 +106076,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8440854472348982355, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8446099797070535680, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_Layer
@@ -105813,6 +106484,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8571171111629686456, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8571171111629686457, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -105891,7 +106567,7 @@ PrefabInstance:
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106308,7 +106984,7 @@ PrefabInstance:
     - target: {fileID: 8826381699059061009, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8826381699059061009, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106339,6 +107015,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8826381699059061011, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8835926343288874883, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106574,7 +107255,7 @@ PrefabInstance:
     - target: {fileID: 8974265999631405753, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8974265999631405753, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106688,6 +107369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8999582280251659727, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9001374965934362696, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106888,7 +107574,7 @@ PrefabInstance:
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106924,6 +107610,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9070780544609070543, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106983,7 +107674,7 @@ PrefabInstance:
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107019,6 +107710,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081359025723802447, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9091012119169084185, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107353,7 +108049,7 @@ PrefabInstance:
     - target: {fileID: 9177860504359801797, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 256
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 9177860504359801797, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107394,6 +108090,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177860504359801799, guid: 59889190ffbc2334281e67e6cef80a4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9180661353266868873, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
