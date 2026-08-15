@@ -30017,20 +30017,15 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Cada vena il\xEDaca com\xFAn se forma por
+        la uni\xF3n de las venas il\xEDaca interna y externa. Ambas ascienden desde
+        la pelvis y finalmente las venas il\xEDacas comunes derecha e izquierda convergen
+        aproximadamente a nivel lumbar para formar la vena cava inferior.\n\nFunci\xF3n
+        y cl\xEDnica: Constituyen la principal v\xEDa de salida venosa de pelvis
+        y miembros inferiores hacia la circulaci\xF3n central. La vena il\xEDaca
+        com\xFAn izquierda puede verse comprimida por estructuras arteriales vecinas,
+        favoreciendo estasis venosa en determinadas situaciones. La trombosis en
+        estos vasos puede producir edema extenso de una extremidad inferior."
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -30072,7 +30067,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -45893,7 +45888,7 @@ PrefabInstance:
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 1324653313682529973, guid: d0f5d921837d4d74ab139feae0f837f5,
         type: 3}
@@ -73070,7 +73065,7 @@ PrefabInstance:
     - target: {fileID: 41719346291303697, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 41719346291303697, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73275,7 +73270,7 @@ PrefabInstance:
     - target: {fileID: 121123726874790792, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 128598307660540639, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73610,7 +73605,7 @@ PrefabInstance:
     - target: {fileID: 282405346825860394, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 282405346825860394, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73635,20 +73630,14 @@ PrefabInstance:
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Contin\xFAa desde la arteria axilar y desciende
+        por la regi\xF3n anterior-medial del brazo derecho. Se relaciona estrechamente
+        con el nervio mediano durante parte de su recorrido y alcanza la fosa cubital,
+        donde se divide en arterias radial y ulnar.\n\nFunci\xF3n y cl\xEDnica: Es
+        la v\xEDa arterial principal para los tejidos del brazo y origina ramas profundas
+        y colaterales que participan en la irrigaci\xF3n del codo. La arteria puede
+        comprimirse contra el h\xFAmero para controlar temporalmente una hemorragia
+        y constituye el vaso utilizado habitualmente para medir la presi\xF3n arterial."
       objectReference: {fileID: 0}
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73690,7 +73679,7 @@ PrefabInstance:
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 308166938321785548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73740,20 +73729,16 @@ PrefabInstance:
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria radial nace de la bifurcaci\xF3n
+        de la arteria braquial en la regi\xF3n del codo y desciende por el lado lateral
+        del antebrazo, correspondiente al pulgar. Cerca de la mu\xF1eca se vuelve
+        relativamente superficial y posteriormente alcanza la mano, donde contribuye
+        principalmente al arco palmar profundo.\n\nFunci\xF3n y cl\xEDnica: Irriga
+        estructuras del antebrazo y participa de forma importante en la vascularizaci\xF3n
+        de la mano. Su ubicaci\xF3n superficial en la mu\xF1eca permite palpar f\xE1cilmente
+        el pulso radial. Tambi\xE9n se utiliza frecuentemente para gasometr\xEDas,
+        cateterizaci\xF3n arterial y como sitio de acceso para algunos procedimientos
+        cardiovasculares."
       objectReference: {fileID: 0}
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73795,7 +73780,7 @@ PrefabInstance:
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 333108055743301720, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -73887,7 +73872,7 @@ PrefabInstance:
     - target: {fileID: 358451591581276058, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 358451591581276058, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75048,7 +75033,7 @@ PrefabInstance:
     - target: {fileID: 762055634560892571, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 762055634560892571, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75073,20 +75058,15 @@ PrefabInstance:
     - target: {fileID: 834051346087952577, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena subclavia izquierda es la continuaci\xF3n
+        de la vena axilar al cruzar el borde lateral de la primera costilla. Recorre
+        la regi\xF3n profunda de la clav\xEDcula y se une con la yugular interna
+        izquierda para formar la vena braquiocef\xE1lica izquierda.\n\nFunci\xF3n
+        y cl\xEDnica: Es la principal v\xEDa de retorno venoso profundo del miembro
+        superior izquierdo. Cerca de su uni\xF3n con la yugular recibe tambi\xE9n
+        drenaje linf\xE1tico mediante el conducto tor\xE1cico. Su posici\xF3n permite
+        utilizarla para cateterizaci\xF3n venosa central, aunque su cercan\xEDa con
+        pleura y grandes vasos requiere una t\xE9cnica precisa."
       objectReference: {fileID: 0}
     - target: {fileID: 834051346087952577, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75128,7 +75108,7 @@ PrefabInstance:
     - target: {fileID: 834051346087952577, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 834051346087952577, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75372,20 +75352,17 @@ PrefabInstance:
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: A diferencia de la izquierda, la arteria
+        car\xF3tida com\xFAn derecha nace del tronco braquiocef\xE1lico. Asciende
+        por el cuello dentro de la vaina carot\xEDdea y mantiene estrecha relaci\xF3n
+        con la vena yugular interna y el nervio vago. Termina dividi\xE9ndose en
+        arterias car\xF3tida interna y externa aproximadamente a nivel del borde
+        superior del cart\xEDlago tiroides.\n\nFunci\xF3n y cl\xEDnica: Participa
+        en la irrigaci\xF3n de cabeza, cuello y enc\xE9falo. Cerca de su bifurcaci\xF3n
+        se encuentran el seno y cuerpo carot\xEDdeos, relacionados con la regulaci\xF3n
+        cardiovascular y la detecci\xF3n de cambios qu\xEDmicos sangu\xEDneos. La
+        estenosis carot\xEDdea por aterosclerosis constituye un factor importante
+        de riesgo cerebrovascular."
       objectReference: {fileID: 0}
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75427,7 +75404,7 @@ PrefabInstance:
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 871044105365825341, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75477,20 +75454,15 @@ PrefabInstance:
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Es la continuaci\xF3n de la arteria subclavia
+        despu\xE9s del borde lateral de la primera costilla. Atraviesa la axila rodeada
+        por componentes del plexo braquial y termina al alcanzar el borde inferior
+        del m\xFAsculo redondo mayor, donde se convierte en arteria braquial.\n\nFunci\xF3n
+        y cl\xEDnica: Es la arteria principal de la regi\xF3n axilar y proporciona
+        ramas destinadas al hombro, pared tor\xE1cica y miembro superior proximal.
+        Su proximidad con los nervios del plexo braquial explica que traumatismos
+        importantes de la axila puedan producir lesiones vasculares y neurol\xF3gicas
+        simult\xE1neamente."
       objectReference: {fileID: 0}
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -75532,7 +75504,7 @@ PrefabInstance:
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 910335706002980681, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76039,20 +76011,16 @@ PrefabInstance:
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria tibial posterior es una de las
+        principales ramas terminales de la arteria popl\xEDtea. Desciende por el
+        compartimento posterior profundo de la pierna y pasa detr\xE1s del mal\xE9olo
+        medial, donde queda relativamente superficial. Finalmente se divide en arterias
+        plantares medial y lateral.\n\nFunci\xF3n y cl\xEDnica: Irriga estructuras
+        del compartimento posterior de la pierna y contribuye de manera importante
+        al aporte sangu\xEDneo de la planta del pie. Su pulso puede palparse detr\xE1s
+        del mal\xE9olo medial y constituye uno de los puntos utilizados para evaluar
+        la circulaci\xF3n perif\xE9rica. La disminuci\xF3n o ausencia del pulso puede
+        sugerir enfermedad arterial del miembro inferior."
       objectReference: {fileID: 0}
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76094,7 +76062,7 @@ PrefabInstance:
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1126745559298339948, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76508,20 +76476,15 @@ PrefabInstance:
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas braquiales son vasos profundos
+        del brazo y habitualmente existen como dos venas acompa\xF1antes alrededor
+        de la arteria braquial. Se originan mediante la uni\xF3n de las venas profundas
+        radial y ulnar y ascienden hasta contribuir a la formaci\xF3n de la vena
+        axilar.\n\nFunci\xF3n y cl\xEDnica: Recogen sangre de los m\xFAsculos y tejidos
+        profundos del brazo y antebrazo. Las contracciones musculares y las v\xE1lvulas
+        venosas favorecen el movimiento de la sangre contra la gravedad hacia el
+        coraz\xF3n. Al pertenecer al sistema profundo, la formaci\xF3n de trombos
+        en estos vasos posee mayor importancia cl\xEDnica que en muchas venas superficiales."
       objectReference: {fileID: 0}
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76563,7 +76526,7 @@ PrefabInstance:
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1244922808683295903, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76617,7 +76580,7 @@ PrefabInstance:
     - target: {fileID: 1258500108435184186, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 1258500108435184186, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -76896,7 +76859,7 @@ PrefabInstance:
     - target: {fileID: 1342083692204537319, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 1342083692204537319, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77164,7 +77127,7 @@ PrefabInstance:
     - target: {fileID: 1448800361989382512, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 1024
       objectReference: {fileID: 0}
     - target: {fileID: 1448800361989382512, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77266,20 +77229,15 @@ PrefabInstance:
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria il\xEDaca interna nace de la
+        bifurcaci\xF3n de la arteria il\xEDaca com\xFAn y desciende hacia la pelvis.
+        Habitualmente se divide en divisiones anterior y posterior, de las que nacen
+        numerosas ramas viscerales y parietales.\n\nFunci\xF3n y cl\xEDnica: Es la
+        principal arteria destinada a las v\xEDsceras p\xE9lvicas y tambi\xE9n participa
+        en la irrigaci\xF3n de regi\xF3n gl\xFAtea, perin\xE9 y parte medial del
+        muslo. Debido a sus numerosas ramas y anastomosis posee gran importancia
+        durante cirug\xEDas p\xE9lvicas. En casos de hemorragia grave algunas de
+        sus ramas pueden embolizarse para controlar el sangrado."
       objectReference: {fileID: 0}
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -77321,7 +77279,7 @@ PrefabInstance:
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1546318538067047246, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78096,7 +78054,7 @@ PrefabInstance:
     - target: {fileID: 1704148875616450605, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1704148876222180539, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78196,7 +78154,7 @@ PrefabInstance:
     - target: {fileID: 1704148876788893217, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1704148876788893219, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78585,20 +78543,16 @@ PrefabInstance:
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena yugular interna es el principal
+        vaso venoso profundo del cuello. Se inicia en la base del cr\xE1neo como
+        continuaci\xF3n del seno sigmoideo y desciende dentro de la vaina carot\xEDdea,
+        lateralmente a las arterias car\xF3tidas. En la base del cuello se une con
+        la vena subclavia para formar la vena braquiocef\xE1lica.\n\nFunci\xF3n y
+        cl\xEDnica: Drena gran parte de la sangre procedente del enc\xE9falo, cr\xE1neo,
+        cara y estructuras profundas del cuello. Debido a su comunicaci\xF3n relativamente
+        directa con la aur\xEDcula derecha, sus cambios de presi\xF3n pueden reflejar
+        alteraciones de la presi\xF3n venosa central. Tambi\xE9n constituye una de
+        las principales v\xEDas utilizadas para acceso venoso central."
       objectReference: {fileID: 0}
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78640,7 +78594,7 @@ PrefabInstance:
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1780793496044758913, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78715,20 +78669,15 @@ PrefabInstance:
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena bas\xEDlica pertenece al sistema
+        venoso superficial del miembro superior. Comienza en la red venosa de la
+        mano, asciende por el lado medial del antebrazo y brazo y posteriormente
+        perfora la fascia profunda para unirse al sistema venoso braquial.\n\nFunci\xF3n
+        y cl\xEDnica: Participa en el retorno venoso superficial de la regi\xF3n
+        medial del miembro superior. Se comunica con la vena cef\xE1lica mediante
+        venas superficiales, especialmente en la regi\xF3n del codo. Por su calibre
+        puede utilizarse para accesos venosos, aunque su trayecto profundo proximal
+        requiere mayor precauci\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78770,7 +78719,7 @@ PrefabInstance:
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1784251851741590979, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78887,20 +78836,14 @@ PrefabInstance:
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas radiales son vasos profundos
+        que acompa\xF1an a la arteria radial por el lado lateral del antebrazo. Se
+        originan a partir del drenaje profundo de la mano y ascienden hacia la regi\xF3n
+        cubital.\n\nFunci\xF3n y cl\xEDnica: Recogen sangre de m\xFAsculos y tejidos
+        profundos del lado radial del antebrazo y posteriormente se unen con las
+        venas ulnares para formar las venas braquiales. Su flujo se beneficia de
+        las contracciones musculares del antebrazo y del sistema de v\xE1lvulas venosas,
+        que ayudan a dirigir la sangre hacia proximal."
       objectReference: {fileID: 0}
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -78942,7 +78885,7 @@ PrefabInstance:
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1866783837604796723, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79507,20 +79450,16 @@ PrefabInstance:
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria femoral es la continuaci\xF3n
+        de la arteria il\xEDaca externa despu\xE9s de pasar bajo el ligamento inguinal.
+        Recorre inicialmente el tri\xE1ngulo femoral y posteriormente desciende por
+        el conducto aductor hasta atravesar su hiato, donde pasa a denominarse arteria
+        popl\xEDtea.\n\nFunci\xF3n y cl\xEDnica: Constituye la principal v\xEDa arterial
+        hacia el miembro inferior y origina importantes ramas, destacando la arteria
+        profunda del muslo. Su pulso puede palparse en la regi\xF3n inguinal. Debido
+        a su gran calibre y accesibilidad, tambi\xE9n es una v\xEDa frecuente de
+        entrada para cat\xE9teres utilizados en procedimientos angiogr\xE1ficos y
+        cardiovasculares."
       objectReference: {fileID: 0}
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79562,7 +79501,7 @@ PrefabInstance:
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 1992155206438843788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -79683,7 +79622,7 @@ PrefabInstance:
     - target: {fileID: 2008191291363898891, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 2008191291363898891, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -80077,7 +80016,7 @@ PrefabInstance:
     - target: {fileID: 2172255380209698075, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 2172255380209698075, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81593,20 +81532,17 @@ PrefabInstance:
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Cada vena braquiocef\xE1lica se forma detr\xE1s
+        de la articulaci\xF3n esternoclavicular por la uni\xF3n de las venas yugular
+        interna y subclavia. La vena izquierda es considerablemente m\xE1s larga
+        y cruza el mediastino superior para alcanzar el lado derecho. Finalmente,
+        ambas venas braquiocef\xE1licas se unen y forman la vena cava superior.\n\nFunci\xF3n
+        y cl\xEDnica: Representa una importante v\xEDa de retorno venoso desde cabeza,
+        cuello, miembros superiores y parte del t\xF3rax. Tambi\xE9n recibe varias
+        tributarias procedentes del cuello y mediastino. Debido a su localizaci\xF3n
+        central, tiene relevancia en procedimientos de cateterizaci\xF3n y puede
+        comprimirse por masas mediast\xEDnicas, alterando el retorno venoso hacia
+        el coraz\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -81653,7 +81589,7 @@ PrefabInstance:
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2610116372847541969, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82084,7 +82020,7 @@ PrefabInstance:
     - target: {fileID: 2641199549609168959, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 2641199549609168959, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82223,20 +82159,15 @@ PrefabInstance:
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas ulnares forman parte del sistema
+        venoso profundo del antebrazo y habitualmente acompa\xF1an a la arteria ulnar.
+        Reciben m\xFAltiples tributarias de m\xFAsculos y estructuras profundas de
+        la mano y antebrazo.\n\nFunci\xF3n y cl\xEDnica: Transportan sangre desde
+        el territorio medial y profundo del antebrazo hacia las venas braquiales.
+        Al igual que otras venas profundas, funcionan en conjunto con las contracciones
+        musculares para facilitar el retorno contra la gravedad. Sus conexiones con
+        las venas radiales forman parte de una extensa red venosa profunda del miembro
+        superior."
       objectReference: {fileID: 0}
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82278,7 +82209,7 @@ PrefabInstance:
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2663818891534525060, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82538,7 +82469,7 @@ PrefabInstance:
     - target: {fileID: 2708531446869640384, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 2708531446869640384, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82568,20 +82499,14 @@ PrefabInstance:
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena popl\xEDtea se encuentra profundamente
+        en la fosa situada detr\xE1s de la rodilla. Se forma mediante la confluencia
+        de venas profundas de la pierna y asciende acompa\xF1ando a la arteria popl\xEDtea.
+        Al atravesar el hiato del aductor se convierte en vena femoral.\n\nFunci\xF3n
+        y cl\xEDnica: Recoge gran parte del retorno venoso profundo de la pierna
+        y recibe adem\xE1s tributarias procedentes de la regi\xF3n de la rodilla
+        y la vena safena menor. Es un sitio cl\xEDnicamente relevante de trombosis
+        venosa profunda, que puede causar dolor, edema y riesgo de embolia pulmonar."
       objectReference: {fileID: 0}
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82623,7 +82548,7 @@ PrefabInstance:
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2810633154391219660, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82938,20 +82863,15 @@ PrefabInstance:
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena profunda del muslo acompa\xF1a
+        a la arteria profunda femoral y recoge numerosas venas procedentes de los
+        m\xFAsculos profundos de la regi\xF3n. Asciende por el muslo y generalmente
+        desemboca en la vena femoral proximal.\n\nFunci\xF3n y cl\xEDnica: Constituye
+        una importante v\xEDa de drenaje de m\xFAsculos aductores y regiones profundas
+        del muslo. Sus m\xFAltiples comunicaciones pueden proporcionar rutas alternativas
+        cuando determinados segmentos venosos se encuentran comprometidos. Al formar
+        parte del sistema venoso profundo, los procesos tromb\xF3ticos en este territorio
+        poseen importancia por el riesgo potencial de embolizaci\xF3n pulmonar."
       objectReference: {fileID: 0}
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -82993,7 +82913,7 @@ PrefabInstance:
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 2888794573579232256, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83726,20 +83646,18 @@ PrefabInstance:
     - target: {fileID: 3188631496955011724, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria car\xF3tida com\xFAn izquierda
+        nace directamente del arco de la aorta y asciende por el lado izquierdo del
+        cuello dentro de la vaina carot\xEDdea, acompa\xF1ada por la vena yugular
+        interna y el nervio vago. Habitualmente no origina ramas importantes durante
+        su recorrido cervical. Cerca del borde superior del cart\xEDlago tiroides
+        se bifurca en las arterias car\xF3tida interna y externa.\n\nFunci\xF3n y
+        cl\xEDnica: Constituye una de las principales v\xEDas de aporte sangu\xEDneo
+        hacia la cabeza y el cuello. La car\xF3tida interna contin\xFAa hacia el
+        enc\xE9falo, mientras que la externa irriga principalmente estructuras extracraneales.
+        La acumulaci\xF3n de placas ateroscler\xF3ticas, especialmente cerca de la
+        bifurcaci\xF3n, puede reducir el flujo cerebral y aumentar el riesgo de accidente
+        cerebrovascular."
       objectReference: {fileID: 0}
     - target: {fileID: 3188631496955011724, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83836,7 +83754,7 @@ PrefabInstance:
     - target: {fileID: 3188631496955011726, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3188631496955011727, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -83861,12 +83779,12 @@ PrefabInstance:
     - target: {fileID: 3188631496955011727, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.5
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 3188631496955011727, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 48.5
+      value: -217
       objectReference: {fileID: 0}
     - target: {fileID: 3200777209646581340, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -84459,7 +84377,7 @@ PrefabInstance:
     - target: {fileID: 3359588372586802525, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 3359588372586802525, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -84987,20 +84905,16 @@ PrefabInstance:
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria renal izquierda nace lateralmente
+        de la aorta abdominal, habitualmente alrededor de los niveles vertebrales
+        L1-L2. Se dirige hacia el hilio del ri\xF1\xF3n izquierdo y antes de ingresar
+        al \xF3rgano suele dividirse en varias ramas segmentarias que funcionan pr\xE1cticamente
+        como arterias terminales.\n\nFunci\xF3n y cl\xEDnica: Proporciona el flujo
+        sangu\xEDneo necesario para que el ri\xF1\xF3n filtre la sangre, regule l\xEDquidos
+        y participe en el control de la presi\xF3n arterial. Una reducci\xF3n importante
+        de su di\xE1metro puede disminuir la perfusi\xF3n renal y activar mecanismos
+        que favorecen hipertensi\xF3n renovascular. Las arterias renales accesorias
+        son variantes anat\xF3micas relativamente frecuentes."
       objectReference: {fileID: 0}
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85042,7 +84956,7 @@ PrefabInstance:
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 3516072198571418788, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -85896,7 +85810,7 @@ PrefabInstance:
     - target: {fileID: 3746924521935090904, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 3746924521935090904, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -86861,7 +86775,7 @@ PrefabInstance:
     - target: {fileID: 3933553670529586055, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 3933553670529586055, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87001,7 +86915,7 @@ PrefabInstance:
     - target: {fileID: 3938691325872674701, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3938691326205805339, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87101,7 +87015,7 @@ PrefabInstance:
     - target: {fileID: 3938691326778829185, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3938691326778829187, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87448,20 +87362,16 @@ PrefabInstance:
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena subclavia es la continuaci\xF3n
+        de la vena axilar a partir del borde lateral de la primera costilla. Recorre
+        una posici\xF3n profunda a la clav\xEDcula y anterior al m\xFAsculo escaleno
+        anterior. Finalmente se une con la vena yugular interna para formar la vena
+        braquiocef\xE1lica.\n\nFunci\xF3n y cl\xEDnica: Constituye la principal v\xEDa
+        de retorno venoso profundo del miembro superior y recibe tambi\xE9n peque\xF1os
+        vasos procedentes del cuello y t\xF3rax. Su posici\xF3n relativamente fija
+        y su gran calibre permiten utilizarla como v\xEDa para cat\xE9teres venosos
+        centrales. Sin embargo, su proximidad con la pleura y grandes estructuras
+        vasculares hace necesario un procedimiento cuidadoso para evitar complicaciones."
       objectReference: {fileID: 0}
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87503,7 +87413,7 @@ PrefabInstance:
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 3982552837129132038, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -87616,7 +87526,7 @@ PrefabInstance:
     - target: {fileID: 4004910737056009748, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4005253088095737456, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88109,20 +88019,15 @@ PrefabInstance:
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria renal derecha nace de la aorta
+        abdominal aproximadamente al mismo nivel que la izquierda, pero posee un
+        recorrido m\xE1s largo debido a la posici\xF3n de la aorta. Se dirige hacia
+        el ri\xF1\xF3n derecho pasando habitualmente por detr\xE1s de la vena cava
+        inferior.\n\nFunci\xF3n y cl\xEDnica: Suministra la sangre necesaria para
+        la funci\xF3n del ri\xF1\xF3n derecho y finalmente se divide en ramas segmentarias
+        antes de entrar al tejido renal. La estenosis arterial puede producir disminuci\xF3n
+        de perfusi\xF3n, deterioro renal e hipertensi\xF3n renovascular. Conocer
+        sus variantes es especialmente importante en cirug\xEDa y trasplante renal."
       objectReference: {fileID: 0}
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88164,7 +88069,7 @@ PrefabInstance:
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4064304750065833877, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88514,7 +88419,7 @@ PrefabInstance:
     - target: {fileID: 4104177859603461615, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4117332729823788127, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -88947,20 +88852,15 @@ PrefabInstance:
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas tibiales posteriores son vasos
+        profundos que acompa\xF1an a la arteria tibial posterior por el compartimento
+        posterior de la pierna. Reciben sangre procedente de la planta del pie y
+        de m\xFAsculos profundos de la pantorrilla.\n\nFunci\xF3n y cl\xEDnica: Transportan
+        sangre hacia proximal y participan en la formaci\xF3n de la vena popl\xEDtea
+        junto con otras venas profundas. Durante la marcha, las contracciones del
+        gastrocnemio y s\xF3leo comprimen estos vasos y ayudan a impulsar la sangre
+        hacia el coraz\xF3n, formando parte de la denominada bomba muscular de la
+        pantorrilla."
       objectReference: {fileID: 0}
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89002,7 +88902,7 @@ PrefabInstance:
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4221711074479977579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89425,7 +89325,7 @@ PrefabInstance:
     - target: {fileID: 4379877473726101624, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4379877473726101625, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89455,20 +89355,16 @@ PrefabInstance:
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena cava superior es un gran vaso localizado
+        en el mediastino superior y derecho. Se forma por la uni\xF3n de las venas
+        braquiocef\xE1licas derecha e izquierda y desciende casi verticalmente hasta
+        desembocar en la aur\xEDcula derecha. Recibe adem\xE1s el drenaje de la vena
+        \xE1cigos poco antes de entrar al coraz\xF3n.\n\nFunci\xF3n y cl\xEDnica:
+        Su funci\xF3n es transportar hacia la aur\xEDcula derecha la sangre procedente
+        de todas las estructuras situadas principalmente por encima del diafragma,
+        excepto pulmones y coraz\xF3n. Una obstrucci\xF3n puede ocasionar dilataci\xF3n
+        de venas superficiales, edema facial, dificultad respiratoria e ingurgitaci\xF3n
+        yugular, conjunto conocido como s\xEDndrome de vena cava superior."
       objectReference: {fileID: 0}
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89510,7 +89406,7 @@ PrefabInstance:
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4379877473726101626, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89750,20 +89646,16 @@ PrefabInstance:
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena yugular externa es un vaso superficial
+        del cuello formado habitualmente por contribuciones de las venas retromandibular
+        y auricular posterior. Desciende sobre la superficie del m\xFAsculo esternocleidomastoideo
+        y perfora la fascia cervical antes de desembocar en la vena subclavia.\n\nFunci\xF3n
+        y cl\xEDnica: Drena principalmente regiones superficiales de la cabeza, cuero
+        cabelludo y parte de la cara. Debido a su posici\xF3n superficial suele observarse
+        con facilidad y puede utilizarse como v\xEDa alternativa de acceso venoso.
+        Su tama\xF1o y trayecto presentan variaciones anat\xF3micas relativamente
+        frecuentes que deben considerarse durante procedimientos realizados en el
+        cuello."
       objectReference: {fileID: 0}
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -89805,7 +89697,7 @@ PrefabInstance:
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4478407226878564435, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90063,20 +89955,15 @@ PrefabInstance:
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria ulnar es una de las dos ramas
+        terminales de la arteria braquial. Desciende principalmente por el lado medial
+        del antebrazo, pr\xF3ximo al territorio del me\xF1ique, y alcanza la palma
+        atravesando la regi\xF3n de la mu\xF1eca. Contribuye principalmente a formar
+        el arco palmar superficial.\n\nFunci\xF3n y cl\xEDnica: Proporciona irrigaci\xF3n
+        a numerosos m\xFAsculos del antebrazo y gran parte de la mano. Tambi\xE9n
+        origina la arteria inter\xF3sea com\xFAn, importante para estructuras profundas
+        del antebrazo. Sus conexiones con la arteria radial proporcionan circulaci\xF3n
+        alternativa a trav\xE9s de los arcos palmares."
       objectReference: {fileID: 0}
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90118,7 +90005,7 @@ PrefabInstance:
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 4510475187750856717, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90304,7 +90191,7 @@ PrefabInstance:
     - target: {fileID: 4527592163176531271, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 4527592163176531271, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -90319,7 +90206,7 @@ PrefabInstance:
     - target: {fileID: 4537185899460044800, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4537185899460044801, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -91823,7 +91710,7 @@ PrefabInstance:
     - target: {fileID: 4930423460001383176, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 4930423460001383176, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -92622,7 +92509,7 @@ PrefabInstance:
     - target: {fileID: 5168460575041728905, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5168460575041728905, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93496,20 +93383,16 @@ PrefabInstance:
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El tronco cel\xEDaco es una rama corta
+        y de gran calibre que nace de la cara anterior de la aorta abdominal poco
+        despu\xE9s de atravesar el diafragma. Habitualmente se divide en tres ramas
+        principales: arteria g\xE1strica izquierda, arteria espl\xE9nica y arteria
+        hep\xE1tica com\xFAn.\n\nFunci\xF3n y cl\xEDnica: Proporciona la irrigaci\xF3n
+        principal de estructuras derivadas del intestino anterior, incluyendo est\xF3mago,
+        h\xEDgado, bazo y partes del es\xF3fago, duodeno y p\xE1ncreas. Su patr\xF3n
+        de ramificaci\xF3n presenta variaciones anat\xF3micas relevantes para cirug\xEDas
+        abdominales, trasplantes y procedimientos endovasculares. La compresi\xF3n
+        o estenosis grave puede comprometer el flujo hacia varias v\xEDsceras simult\xE1neamente."
       objectReference: {fileID: 0}
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93551,7 +93434,7 @@ PrefabInstance:
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 5365688338416028826, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -93600,7 +93483,7 @@ PrefabInstance:
     - target: {fileID: 5391261759791574876, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5391261759791574876, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -94795,7 +94678,7 @@ PrefabInstance:
     - target: {fileID: 5746563455104803139, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5746563455104803139, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -94844,7 +94727,7 @@ PrefabInstance:
     - target: {fileID: 5749809230878320555, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5749809230878320555, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95414,7 +95297,7 @@ PrefabInstance:
     - target: {fileID: 5890101512247530427, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5890101512247530427, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95540,7 +95423,7 @@ PrefabInstance:
     - target: {fileID: 5951880514065582083, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 5951880514065582083, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95592,20 +95475,16 @@ PrefabInstance:
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La aorta descendente contin\xFAa desde
+        el arco a\xF3rtico y recorre el mediastino posterior. Desciende por delante
+        de la columna vertebral y atraviesa el diafragma mediante el hiato a\xF3rtico,
+        continu\xE1ndose como aorta abdominal. Durante su trayecto origina numerosas
+        ramas destinadas a paredes y \xF3rganos tor\xE1cicos.\n\nFunci\xF3n y cl\xEDnica:
+        Act\xFAa como gran conducto de distribuci\xF3n sangu\xEDnea hacia t\xF3rax,
+        abdomen, pelvis y miembros inferiores. Su pared est\xE1 sometida continuamente
+        a altas presiones, por lo que alteraciones estructurales pueden favorecer
+        aneurismas o disecciones. Estas patolog\xEDas pueden comprometer r\xE1pidamente
+        la irrigaci\xF3n de m\xFAltiples \xF3rganos y representar emergencias cardiovasculares."
       objectReference: {fileID: 0}
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -95647,7 +95526,7 @@ PrefabInstance:
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 5957837783951269397, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96138,20 +96017,15 @@ PrefabInstance:
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria braquial es la continuaci\xF3n
+        de la arteria axilar despu\xE9s del borde inferior del m\xFAsculo redondo
+        mayor. Desciende por la cara medial y anterior del brazo junto a estructuras
+        nerviosas y alcanza la fosa cubital, donde se divide en arterias radial y
+        ulnar.\n\nFunci\xF3n y cl\xEDnica: Constituye la principal fuente arterial
+        del brazo y origina ramas que participan en la vascularizaci\xF3n del h\xFAmero,
+        m\xFAsculos y articulaci\xF3n del codo. Es f\xE1cilmente accesible en determinadas
+        regiones, por lo que se utiliza para auscultar los sonidos durante la medici\xF3n
+        de la presi\xF3n arterial."
       objectReference: {fileID: 0}
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96193,7 +96067,7 @@ PrefabInstance:
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6136694013924508915, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96253,20 +96127,15 @@ PrefabInstance:
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria popl\xEDtea es la continuaci\xF3n
+        de la arteria femoral despu\xE9s de atravesar el hiato del aductor. Recorre
+        profundamente la fosa popl\xEDtea detr\xE1s de la rodilla y origina varias
+        arterias geniculares antes de dividirse en vasos destinados a la pierna.\n\nFunci\xF3n
+        y cl\xEDnica: Irriga la articulaci\xF3n de la rodilla, m\xFAsculos pr\xF3ximos
+        y constituye la principal conexi\xF3n arterial entre muslo y pierna. Su posici\xF3n
+        profunda proporciona cierta protecci\xF3n, aunque puede lesionarse en traumatismos
+        o luxaciones graves de rodilla. Una obstrucci\xF3n importante compromete
+        la circulaci\xF3n de regiones distales del miembro inferior."
       objectReference: {fileID: 0}
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96308,7 +96177,7 @@ PrefabInstance:
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6159361965637816618, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96758,20 +96627,15 @@ PrefabInstance:
     - target: {fileID: 6241806188342796026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las arterias il\xEDacas comunes derecha
+        e izquierda son las dos ramas terminales de la aorta abdominal. Se dirigen
+        inferolateralmente hacia la pelvis y cada una termina dividi\xE9ndose en
+        arterias il\xEDaca interna y externa.\n\nFunci\xF3n y cl\xEDnica: Funcionan
+        como v\xEDas principales para distribuir sangre hacia la pelvis y miembros
+        inferiores. La rama interna abastece principalmente estructuras p\xE9lvicas,
+        mientras que la externa contin\xFAa hacia la extremidad inferior. La aterosclerosis
+        puede producir estrechamientos que reduzcan el flujo hacia las piernas y
+        ocasionen dolor durante el ejercicio o isquemia m\xE1s avanzada."
       objectReference: {fileID: 0}
     - target: {fileID: 6241806188342796026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -96813,7 +96677,7 @@ PrefabInstance:
     - target: {fileID: 6241806188342796026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6241806188342796026, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97187,7 +97051,7 @@ PrefabInstance:
     - target: {fileID: 6350994523153426296, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 6350994523153426296, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97342,7 +97206,7 @@ PrefabInstance:
     - target: {fileID: 6418094888720097847, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6418094888720097847, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97411,7 +97275,7 @@ PrefabInstance:
     - target: {fileID: 6450676160292231751, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 6450676160292231751, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97673,20 +97537,15 @@ PrefabInstance:
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria tibial anterior nace de la arteria
+        popl\xEDtea y atraviesa una abertura de la membrana inter\xF3sea para ingresar
+        al compartimento anterior de la pierna. Desciende acompa\xF1ada por el nervio
+        fibular profundo y, al cruzar el tobillo, contin\xFAa como arteria dorsal
+        del pie.\n\nFunci\xF3n y cl\xEDnica: Irriga principalmente los m\xFAsculos
+        anteriores de la pierna, responsables de movimientos como la dorsiflexi\xF3n,
+        y contribuye a la vascularizaci\xF3n del dorso del pie. Su continuaci\xF3n
+        distal permite evaluar cl\xEDnicamente el pulso pedio, utilizado para valorar
+        la perfusi\xF3n arterial de la extremidad inferior."
       objectReference: {fileID: 0}
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -97728,7 +97587,7 @@ PrefabInstance:
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6555238220404666823, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98380,20 +98239,14 @@ PrefabInstance:
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena axilar es un vaso profundo que
+        acompa\xF1a aproximadamente el trayecto de la arteria axilar. Se forma a
+        partir del sistema venoso profundo del brazo y recibe tambi\xE9n la vena
+        cef\xE1lica. Al alcanzar la primera costilla contin\xFAa como vena subclavia.\n\nFunci\xF3n
+        y cl\xEDnica: Recoge gran parte de la sangre procedente de brazo, hombro
+        y axila. Posee v\xE1lvulas que favorecen el flujo hacia el coraz\xF3n y limitan
+        el retroceso de la sangre. La trombosis de las venas axilar o subclavia puede
+        producir dolor, edema y aumento de volumen del miembro superior."
       objectReference: {fileID: 0}
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98435,7 +98288,7 @@ PrefabInstance:
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6719720512831933235, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98489,7 +98342,7 @@ PrefabInstance:
     - target: {fileID: 6741134349089477500, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 6741134349089477500, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98544,20 +98397,15 @@ PrefabInstance:
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Es la continuaci\xF3n de la arteria subclavia
+        derecha despu\xE9s de cruzar la primera costilla. Recorre la axila y mantiene
+        una relaci\xF3n anat\xF3mica muy estrecha con los cordones y ramas del plexo
+        braquial. Finaliza en el borde inferior del m\xFAsculo redondo mayor como
+        arteria braquial.\n\nFunci\xF3n y cl\xEDnica: Proporciona ramas para la pared
+        tor\xE1cica, hombro, articulaci\xF3n glenohumeral y porci\xF3n proximal del
+        brazo. Forma importantes anastomosis alrededor de la esc\xE1pula. Los traumatismos
+        o luxaciones graves del hombro pueden comprometerla debido a su proximidad
+        con la cabeza del h\xFAmero."
       objectReference: {fileID: 0}
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98599,7 +98447,7 @@ PrefabInstance:
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6794597611397473414, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98747,20 +98595,15 @@ PrefabInstance:
     - target: {fileID: 6827227513557488314, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena il\xEDaca interna se localiza profundamente
+        en la pelvis y recibe numerosas tributarias que acompa\xF1an a las ramas
+        de la arteria il\xEDaca interna. Drena plexos venosos de las v\xEDsceras
+        p\xE9lvicas y posteriormente se une a la vena il\xEDaca externa.\n\nFunci\xF3n
+        y cl\xEDnica: Recoge sangre procedente de \xF3rganos p\xE9lvicos, paredes
+        de la pelvis, regi\xF3n gl\xFAtea y perin\xE9. Sus m\xFAltiples conexiones
+        forman redes venosas amplias que permiten v\xEDas alternativas de drenaje.
+        Estas mismas comunicaciones pueden facilitar la propagaci\xF3n de hemorragias,
+        infecciones o procesos tumorales dentro de la pelvis."
       objectReference: {fileID: 0}
     - target: {fileID: 6827227513557488314, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98802,7 +98645,7 @@ PrefabInstance:
     - target: {fileID: 6827227513557488314, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 6827227513557488314, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98851,7 +98694,7 @@ PrefabInstance:
     - target: {fileID: 6845103057495320560, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 6845103057495320560, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -98930,7 +98773,7 @@ PrefabInstance:
     - target: {fileID: 6874731129534654755, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 6874731129534654755, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100308,20 +100151,16 @@ PrefabInstance:
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena cava inferior es un gran vaso retroperitoneal
+        formado por la uni\xF3n de las venas il\xEDacas comunes. Asciende por el
+        lado derecho de la columna vertebral, recibe importantes tributarias abdominales
+        y atraviesa el diafragma para desembocar directamente en la aur\xEDcula derecha.\n\nFunci\xF3n
+        y cl\xEDnica: Es la principal v\xEDa de retorno venoso del abdomen, pelvis
+        y miembros inferiores. Su gran calibre permite transportar un volumen considerable
+        de sangre hacia el coraz\xF3n. Una trombosis, compresi\xF3n abdominal o alteraci\xF3n
+        de su flujo puede producir edema de miembros inferiores y desarrollo de circulaci\xF3n
+        venosa colateral. Su anatom\xEDa presenta adem\xE1s numerosas variantes de
+        importancia quir\xFArgica."
       objectReference: {fileID: 0}
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100363,7 +100202,7 @@ PrefabInstance:
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7306205469084101579, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -100567,7 +100406,7 @@ PrefabInstance:
     - target: {fileID: 7332627436451675134, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 7332627436451675134, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -101172,7 +101011,7 @@ PrefabInstance:
     - target: {fileID: 7412774639624762896, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 7412774639624762896, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102730,20 +102569,16 @@ PrefabInstance:
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La arteria subclavia derecha se origina
+        del tronco braquiocef\xE1lico. Se dirige lateralmente hacia la extremidad
+        superior pasando sobre la primera costilla y relacionada con los m\xFAsculos
+        escalenos. Despu\xE9s del borde lateral de la primera costilla cambia su
+        nombre a arteria axilar.\n\nFunci\xF3n y cl\xEDnica: Adem\xE1s de iniciar
+        la irrigaci\xF3n del miembro superior, origina ramas importantes destinadas
+        al enc\xE9falo, m\xE9dula espinal, cuello y pared tor\xE1cica. Una de las
+        m\xE1s relevantes es la arteria vertebral. Alteraciones de su flujo pueden
+        afectar tanto la extremidad superior como territorios posteriores de la circulaci\xF3n
+        cerebral."
       objectReference: {fileID: 0}
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102785,7 +102620,7 @@ PrefabInstance:
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 7670657888574273922, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -102970,7 +102805,7 @@ PrefabInstance:
     - target: {fileID: 7696850869016385848, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7712823392228166406, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103014,7 +102849,7 @@ PrefabInstance:
     - target: {fileID: 7716789396902479640, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 7716789396902479640, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103673,20 +103508,16 @@ PrefabInstance:
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: El arco de la aorta es la porci\xF3n curva
+        que conecta la aorta ascendente con la descendente. Se dirige superiormente,
+        hacia atr\xE1s y hacia la izquierda dentro del mediastino. Habitualmente
+        origina tres grandes ramas: tronco braquiocef\xE1lico, arteria car\xF3tida
+        com\xFAn izquierda y arteria subclavia izquierda.\n\nFunci\xF3n y cl\xEDnica:
+        Distribuye parte del gasto card\xEDaco hacia cabeza, cuello y miembros superiores
+        mientras contin\xFAa hacia la circulaci\xF3n sist\xE9mica inferior. Su estrecha
+        relaci\xF3n con tr\xE1quea, es\xF3fago y nervios del mediastino tiene gran
+        importancia anat\xF3mica. Puede afectarse por aneurismas, disecciones y anomal\xEDas
+        cong\xE9nitas de sus ramas."
       objectReference: {fileID: 0}
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103728,7 +103559,7 @@ PrefabInstance:
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8017747977713712326, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -103893,7 +103724,7 @@ PrefabInstance:
     - target: {fileID: 8059395641079696224, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8059395641079696226, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104699,7 +104530,7 @@ PrefabInstance:
     - target: {fileID: 8230867535043944548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 8230867535043944548, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104768,7 +104599,7 @@ PrefabInstance:
     - target: {fileID: 8245833348368752084, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 8245833348368752084, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -104822,7 +104653,7 @@ PrefabInstance:
     - target: {fileID: 8253450546256435537, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 8253450546256435537, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -105491,20 +105322,15 @@ PrefabInstance:
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas renales se forman en el hilio
+        de cada ri\xF1\xF3n y desembocan directamente en la vena cava inferior. La
+        vena renal izquierda posee un trayecto m\xE1s largo y cruza por delante de
+        la aorta para alcanzar la cava situada a la derecha.\n\nFunci\xF3n y cl\xEDnica:
+        Transportan hacia la circulaci\xF3n central la sangre que ha pasado a trav\xE9s
+        de la vascularizaci\xF3n renal. La vena renal izquierda tambi\xE9n recibe
+        tributarias adicionales, como las venas gonadal y suprarrenal izquierdas.
+        Su compresi\xF3n entre estructuras vasculares puede dificultar el drenaje
+        renal y originar alteraciones venosas espec\xEDficas."
       objectReference: {fileID: 0}
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -105546,7 +105372,7 @@ PrefabInstance:
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8374100487349532528, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106512,20 +106338,15 @@ PrefabInstance:
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena cef\xE1lica es una importante vena
+        superficial que comienza en la regi\xF3n lateral de la red venosa dorsal
+        de la mano. Asciende por el lado lateral del antebrazo y brazo y posteriormente
+        recorre el surco deltopectoral antes de desembocar habitualmente en la vena
+        axilar.\n\nFunci\xF3n y cl\xEDnica: Drena principalmente la regi\xF3n superficial
+        lateral del miembro superior. Su localizaci\xF3n relativamente superficial
+        facilita la venopunci\xF3n y la colocaci\xF3n de determinados accesos venosos.
+        El surco deltopectoral constituye adem\xE1s un punto anat\xF3mico \xFAtil
+        para localizarla durante procedimientos quir\xFArgicos del hombro."
       objectReference: {fileID: 0}
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106567,7 +106388,7 @@ PrefabInstance:
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 8571171111629686458, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -106875,7 +106696,7 @@ PrefabInstance:
     - target: {fileID: 8730614585823355377, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 8730614585823355377, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107255,7 +107076,7 @@ PrefabInstance:
     - target: {fileID: 8974265999631405753, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 8974265999631405753, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107477,7 +107298,7 @@ PrefabInstance:
     - target: {fileID: 9037623434368561122, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 512
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 9037623434368561122, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107519,20 +107340,15 @@ PrefabInstance:
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: Las venas tibiales anteriores acompa\xF1an
+        a la arteria tibial anterior dentro del compartimento anterior de la pierna.
+        Reciben sangre del dorso del pie y de m\xFAsculos responsables principalmente
+        de la dorsiflexi\xF3n.\n\nFunci\xF3n y cl\xEDnica: Drenan los territorios
+        profundos anteriores de la pierna y ascienden hasta participar en la formaci\xF3n
+        de la vena popl\xEDtea. Su posici\xF3n profunda permite que las contracciones
+        musculares favorezcan el retorno venoso. Las venas tibiales forman parte
+        de los territorios evaluados mediante ecograf\xEDa cuando existe sospecha
+        de trombosis venosa profunda distal."
       objectReference: {fileID: 0}
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107574,7 +107390,7 @@ PrefabInstance:
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 9070780544609070541, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107619,20 +107435,15 @@ PrefabInstance:
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_text
-      value: "Ubicaci\xF3n y anatom\xEDa: El gastrocnemio es un m\xFAsculo superficial
-        de la regi\xF3n posterior de la pierna y forma la parte visible principal
-        de la pantorrilla. Posee dos cabezas, medial y lateral, que se originan en
-        los c\xF3ndilos femorales correspondientes. Desciende y se une al s\xF3leo
-        para formar el tend\xF3n calc\xE1neo o tend\xF3n de Aquiles, que se inserta
-        en la cara posterior del calc\xE1neo. Cruza tanto la articulaci\xF3n de la
-        rodilla como la del tobillo.\n\nFunci\xF3n y cl\xEDnica: Su acci\xF3n principal
-        es producir flexi\xF3n plantar del tobillo, esencial para caminar, correr,
-        saltar y elevar el cuerpo sobre la punta de los pies. Tambi\xE9n ayuda a
-        flexionar la rodilla por cruzar la articulaci\xF3n femorotibial. Participa
-        activamente en la propulsi\xF3n del paso y en la bomba muscular venosa de
-        la pierna. Los desgarros musculares, calambres y tendinopat\xEDas relacionadas
-        con el tend\xF3n de Aquiles son hallazgos frecuentes en la pr\xE1ctica cl\xEDnica
-        y deportiva."
+      value: "Ubicaci\xF3n y anatom\xEDa: La vena femoral es un vaso profundo que
+        acompa\xF1a a la arteria femoral durante gran parte de su recorrido. Se origina
+        como continuaci\xF3n de la vena popl\xEDtea despu\xE9s del hiato del aductor
+        y asciende por el muslo hasta continuar como vena il\xEDaca externa bajo
+        el ligamento inguinal.\n\nFunci\xF3n y cl\xEDnica: Recoge gran parte del
+        retorno venoso profundo del miembro inferior y recibe tributarias importantes,
+        incluyendo la vena profunda del muslo y la safena magna. Es una localizaci\xF3n
+        cl\xEDnicamente importante de trombosis venosa profunda, cuyos trombos pueden
+        desplazarse hacia la circulaci\xF3n pulmonar."
       objectReference: {fileID: 0}
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
@@ -107674,7 +107485,7 @@ PrefabInstance:
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
       propertyPath: m_VerticalAlignment
-      value: 1024
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 9081359025723802445, guid: 59889190ffbc2334281e67e6cef80a4f,
         type: 3}
