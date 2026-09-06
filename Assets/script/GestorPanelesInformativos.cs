@@ -30,6 +30,7 @@ public class GestorPanelesInformativos : MonoBehaviour
         // cierra el panel que ya estaba visible.
         if (panelActual == panelNuevo && pinActual == pinNuevo)
         {
+            pinActual.RestaurarApariencia();
             panelActual.SetActive(false);
 
             panelActual = null;
@@ -39,6 +40,11 @@ public class GestorPanelesInformativos : MonoBehaviour
         }
 
         // Si había otro panel abierto, lo cierra.
+        if (pinActual != null)
+        {
+            pinActual.RestaurarApariencia();
+        }
+
         if (panelActual != null)
         {
             panelActual.SetActive(false);
@@ -49,10 +55,19 @@ public class GestorPanelesInformativos : MonoBehaviour
         pinActual = pinNuevo;
 
         panelActual.SetActive(true);
+        if (panelActual.activeInHierarchy)
+        {
+            pinActual.ResaltarPin();
+        }
     }
 
     public void CerrarPanelActual()
     {
+        if (pinActual != null)
+        {
+            pinActual.RestaurarApariencia();
+        }
+
         if (panelActual != null)
         {
             panelActual.SetActive(false);
@@ -72,6 +87,11 @@ public class GestorPanelesInformativos : MonoBehaviour
 
     public void OcultarTodosLosPaneles()
     {
+        if (pinActual != null)
+        {
+            pinActual.RestaurarApariencia();
+        }
+
         for (int i = 0; i < transform.childCount; i++)
         {
             transform.GetChild(i).gameObject.SetActive(false);
