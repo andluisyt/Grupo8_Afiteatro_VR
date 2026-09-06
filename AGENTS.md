@@ -27,11 +27,8 @@ Before modifying code:
 
 
 1. Inspect the relevant files.
-
 2. Identify dependencies.
-
 3. Explain the proposed modification.
-
 4. Modify the smallest possible number of files.
 
 
@@ -40,21 +37,14 @@ Do not rename or delete:
 
 
 
-- GameObjects
-
-- scenes
-
-- prefabs
-
-- layers
-
-- tags
-
-- serialized fields
-
-- materials
-
-- shaders
+* GameObjects
+* scenes
+* prefabs
+* layers
+* tags
+* serialized fields
+* materials
+* shaders
 
 
 
@@ -66,17 +56,12 @@ Do not modify the following without explicit permission:
 
 
 
-- Packages/manifest.json
-
-- ProjectSettings/
-
-- Assets/Scenes/
-
-- Assets/Settings/
-
-- prefabs
-
-- shader files
+* Packages/manifest.json
+* ProjectSettings/
+* Assets/Scenes/
+* Assets/Settings/
+* prefabs
+* shader files
 
 
 
@@ -112,15 +97,11 @@ Never switch to main unless explicitly requested.
 
 
 
-- Unity
-
-- C#
-
-- Meta Quest 3
-
-- Meta XR / OVR
-
-- XR interactions
+* Unity
+* C#
+* Meta Quest 3
+* Meta XR / OVR
+* XR interactions
 
 
 
@@ -152,17 +133,12 @@ The project contains anatomical systems including:
 
 
 
-- Circulatory
-
-- Skeletal
-
-- Muscular
-
-- Digestive
-
-- Nervous
-
-- Respiratory
+* Circulatory
+* Skeletal
+* Muscular
+* Digestive
+* Nervous
+* Respiratory
 
 
 
@@ -179,11 +155,8 @@ Expected behavior:
 
 
 1. Right controller selects a pin.
-
 2. Corresponding panel opens.
-
 3. Previous panel closes.
-
 4. Only one information panel should normally be active.
 
 
@@ -233,23 +206,33 @@ For each requested change:
 
 
 1. Explain what files you intend to inspect.
-
 2. Inspect the current implementation.
-
 3. Explain the root cause or architecture.
-
 4. Propose the smallest safe change.
-
 5. Ask for permission before changing multiple systems.
-
 6. Modify only necessary files.
-
 7. Report every modified file.
-
 8. Explain how to test the change in Unity.
-
 9. Do not commit unless explicitly requested.
-
 10. Do not push unless explicitly requested.
 
+
+
+\## Communication language
+
+
+
+Always communicate with the user in Spanish.
+
+
+
+Explanations, summaries, architecture analysis, warnings, and testing
+
+instructions must be written in Spanish.
+
+
+
+Keep code, Unity class names, GameObject names, API names, file names,
+
+and technical identifiers in their original language.
 
