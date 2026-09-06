@@ -28957,6 +28957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 869033921}
   - component: {fileID: 869033920}
+  - component: {fileID: 869033922}
   m_Layer: 0
   m_Name: GestorInteraccionSistemas
   m_TagString: Untagged
@@ -28964,6 +28965,33 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &869033922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 869033919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d03ce24758b5a4db8cae5c9f96b9fd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  locomotor: {fileID: 869033923}
+  alturaMinima: -0.3
+  alturaMaxima: 0.5
+--- !u!114 &869033923 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5801245061754409418, guid: 0a7d2469f24041c4284c66706f84c45e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1130675470}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec6a2955cc1374944a4634c6f312985a, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
 --- !u!114 &869033920
 MonoBehaviour:
   m_ObjectHideFlags: 0
