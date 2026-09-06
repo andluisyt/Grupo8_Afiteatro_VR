@@ -332,6 +332,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2112735}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2112736}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -345,12 +351,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -850,6 +850,12 @@ MonoBehaviour:
   _interactableView: {fileID: 10587629}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 10587631}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -863,12 +869,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -1124,6 +1124,12 @@ MonoBehaviour:
   _interactableView: {fileID: 12474576}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 12474578}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -1137,12 +1143,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -1458,6 +1458,12 @@ MonoBehaviour:
   _interactableView: {fileID: 22207584}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 22207586}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -1471,12 +1477,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -1737,6 +1737,12 @@ MonoBehaviour:
   _interactableView: {fileID: 24642603}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 24642605}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -1750,12 +1756,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -2118,6 +2118,12 @@ MonoBehaviour:
   _interactableView: {fileID: 35441858}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 35441861}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -2131,12 +2137,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -2676,6 +2676,12 @@ MonoBehaviour:
   _interactableView: {fileID: 52586843}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 52586842}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -2689,12 +2695,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -3555,6 +3555,12 @@ MonoBehaviour:
   _interactableView: {fileID: 66388449}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 66388451}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -3568,12 +3574,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -4393,6 +4393,12 @@ MonoBehaviour:
   _interactableView: {fileID: 94609739}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 94609741}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -4406,12 +4412,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -5020,6 +5020,12 @@ MonoBehaviour:
   _interactableView: {fileID: 111475565}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 111475567}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -5033,12 +5039,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -5310,6 +5310,12 @@ MonoBehaviour:
   _interactableView: {fileID: 113865517}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 113865519}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -5323,12 +5329,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -5898,6 +5898,12 @@ MonoBehaviour:
   _interactableView: {fileID: 134197596}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 134197598}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -5911,12 +5917,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -6814,6 +6814,12 @@ MonoBehaviour:
   _interactableView: {fileID: 150308981}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 150308983}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -6827,12 +6833,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -7444,6 +7444,12 @@ MonoBehaviour:
   _interactableView: {fileID: 165778931}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 165778933}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -7457,12 +7463,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -8014,6 +8014,12 @@ MonoBehaviour:
   _interactableView: {fileID: 178984937}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 178984939}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -8027,12 +8033,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -8343,6 +8343,12 @@ MonoBehaviour:
   _interactableView: {fileID: 188962325}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 188962327}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -8356,12 +8362,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -8679,6 +8679,12 @@ MonoBehaviour:
   _interactableView: {fileID: 196834250}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 196834252}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -8692,12 +8698,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -9063,6 +9063,12 @@ MonoBehaviour:
   _interactableView: {fileID: 205925050}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 205925052}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -9076,12 +9082,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -9316,6 +9316,12 @@ MonoBehaviour:
   _interactableView: {fileID: 212634582}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 212634581}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -9329,12 +9335,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -10226,6 +10226,12 @@ MonoBehaviour:
   _interactableView: {fileID: 246976760}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 246976762}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -10239,12 +10245,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -10517,6 +10517,12 @@ MonoBehaviour:
   _interactableView: {fileID: 248736346}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 248736348}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -10530,12 +10536,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -11672,6 +11672,12 @@ MonoBehaviour:
   _interactableView: {fileID: 292969076}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 292969078}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -11685,12 +11691,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -12257,6 +12257,12 @@ MonoBehaviour:
   _interactableView: {fileID: 313157492}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 313157491}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -12270,12 +12276,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -13347,6 +13347,12 @@ MonoBehaviour:
   _interactableView: {fileID: 356250665}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 356250667}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -13360,12 +13366,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -13967,6 +13967,12 @@ MonoBehaviour:
   _interactableView: {fileID: 368659401}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 368659403}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -13980,12 +13986,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -14394,6 +14394,12 @@ MonoBehaviour:
   _interactableView: {fileID: 378290480}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 378290482}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -14407,12 +14413,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -15182,6 +15182,12 @@ MonoBehaviour:
   _interactableView: {fileID: 401376802}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 401376804}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -15195,12 +15201,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -16248,6 +16248,12 @@ MonoBehaviour:
   _interactableView: {fileID: 423925103}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 423925105}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -16261,12 +16267,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -17391,6 +17391,12 @@ MonoBehaviour:
   _interactableView: {fileID: 448890779}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 448890781}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -17404,12 +17410,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -17701,6 +17701,12 @@ MonoBehaviour:
   _interactableView: {fileID: 453673686}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 453673688}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -17714,12 +17720,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -18528,6 +18528,12 @@ MonoBehaviour:
   _interactableView: {fileID: 464780293}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 464780295}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -18541,12 +18547,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -19053,6 +19053,12 @@ MonoBehaviour:
   _interactableView: {fileID: 491819096}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 491819098}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -19066,12 +19072,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -20102,6 +20102,12 @@ MonoBehaviour:
   _interactableView: {fileID: 523450403}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 523450405}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -20115,12 +20121,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -20584,6 +20584,12 @@ MonoBehaviour:
   _interactableView: {fileID: 525813953}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 525813955}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -20597,12 +20603,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -21288,6 +21288,12 @@ MonoBehaviour:
   _interactableView: {fileID: 539852006}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 539852009}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -21301,12 +21307,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -21754,6 +21754,12 @@ MonoBehaviour:
   _interactableView: {fileID: 567502583}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 567502585}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -21767,12 +21773,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -22120,6 +22120,12 @@ MonoBehaviour:
   _interactableView: {fileID: 569500124}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 569500126}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -22133,12 +22139,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -22575,6 +22575,12 @@ MonoBehaviour:
   _interactableView: {fileID: 588792052}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 588792054}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -22588,12 +22594,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -23210,6 +23210,12 @@ MonoBehaviour:
   _interactableView: {fileID: 603908580}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 603908582}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -23223,12 +23229,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -23908,6 +23908,12 @@ MonoBehaviour:
   _interactableView: {fileID: 623862446}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 623862448}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -23921,12 +23927,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -24261,6 +24261,12 @@ MonoBehaviour:
   _interactableView: {fileID: 628768503}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 628768505}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -24274,12 +24280,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -24789,6 +24789,12 @@ MonoBehaviour:
   _interactableView: {fileID: 648101279}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 648101281}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -24802,12 +24808,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -25782,6 +25782,12 @@ MonoBehaviour:
   _interactableView: {fileID: 687413795}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 687413797}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -25795,12 +25801,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -26054,6 +26054,12 @@ MonoBehaviour:
   _interactableView: {fileID: 700437933}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 700437935}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -26067,12 +26073,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -26442,6 +26442,12 @@ MonoBehaviour:
   _interactableView: {fileID: 707187516}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 707187518}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -26455,12 +26461,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -28648,6 +28648,12 @@ MonoBehaviour:
   _interactableView: {fileID: 850904734}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 850904736}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -28661,12 +28667,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -29745,6 +29745,12 @@ MonoBehaviour:
   _interactableView: {fileID: 913697175}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 913697177}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -29758,12 +29764,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -30468,6 +30468,12 @@ MonoBehaviour:
   _interactableView: {fileID: 947164747}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 947164749}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -30481,12 +30487,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -30891,6 +30891,12 @@ MonoBehaviour:
   _interactableView: {fileID: 959693600}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 959693602}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -30904,12 +30910,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -32406,6 +32406,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1052814184}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1052814186}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -32419,12 +32425,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -32869,6 +32869,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1067789214}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1067789216}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -32882,12 +32888,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -33143,6 +33143,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1069147116}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1069147118}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -33156,12 +33162,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -33453,6 +33453,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1071561137}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1071561139}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -33466,12 +33472,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -34050,6 +34050,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1081831709}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1081831711}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -34063,12 +34069,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -34659,6 +34659,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1100660012}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1100660014}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -34672,12 +34678,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -34994,6 +34994,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1102704889}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1102704891}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -35007,12 +35013,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -35262,6 +35262,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1107061270}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1107061272}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -35275,12 +35281,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -35548,6 +35548,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1119994773}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1119994775}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -35561,12 +35567,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -36224,6 +36224,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1139118546}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1139118549}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -36237,12 +36243,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -36787,6 +36787,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1146122413}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1146122415}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -36800,12 +36806,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -37450,6 +37450,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1169212096}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1169212098}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -37463,12 +37469,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -38119,6 +38119,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1198638296}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1198638295}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -38132,12 +38138,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -38408,6 +38408,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1203070974}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1203070976}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -38421,12 +38427,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -39523,6 +39523,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1263845092}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1263845094}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -39536,12 +39542,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -39896,6 +39896,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1270032313}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1270032315}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -39909,12 +39915,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -40170,6 +40170,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1270925786}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1270925788}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -40183,12 +40189,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -40780,6 +40780,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1291740735}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1291740737}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -40793,12 +40799,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -41097,6 +41097,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1293122855}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1293122857}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -41110,12 +41116,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -41602,6 +41602,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1314592223}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1314592225}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -41615,12 +41621,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -42023,6 +42023,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1321255696}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1321255698}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -42036,12 +42042,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -42557,6 +42557,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1365420197}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1365420199}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -42570,12 +42576,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -42831,6 +42831,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1369934028}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1369934030}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -42844,12 +42850,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -43344,6 +43344,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1381661696}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1381661698}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -43357,12 +43363,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -43741,6 +43741,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1387810189}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1387810191}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -43754,12 +43760,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -44113,6 +44113,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1389552284}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1389552286}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -44126,12 +44132,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -45100,6 +45100,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1424134099}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1424134101}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -45113,12 +45119,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -46225,6 +46225,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1444417385}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1444417387}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -46238,12 +46244,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -46854,6 +46854,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1457631048}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1457631050}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -46867,12 +46873,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -48721,6 +48721,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1520811544}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1520811546}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -48734,12 +48740,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -49068,6 +49068,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1527935945}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1527935947}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -49081,12 +49087,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -49832,6 +49832,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1548137622}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1548137624}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -49845,12 +49851,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -50464,6 +50464,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1564287351}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1564287353}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -50477,12 +50483,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -50754,6 +50754,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1566866886}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1566866885}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -50767,12 +50773,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -51507,6 +51507,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1604169213}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1604169212}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -51520,12 +51526,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -51855,6 +51855,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1614869805}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1614869807}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -51868,12 +51874,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -52129,6 +52129,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1620111313}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1620111315}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -52142,12 +52148,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -52441,6 +52441,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1628819027}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1628819029}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -52454,12 +52460,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -52813,6 +52813,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1638677749}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1638677751}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -52826,12 +52832,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -54808,6 +54808,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1715259816}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1715259818}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -54821,12 +54827,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -55130,6 +55130,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1719072039}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1719072041}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -55143,12 +55149,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -55453,6 +55453,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1725485002}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1725485004}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -55466,12 +55472,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -56490,6 +56490,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1751187845}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1751187847}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -56503,12 +56509,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -56774,6 +56774,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1751920952}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1751920954}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -56787,12 +56793,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -57489,6 +57489,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1762161629}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1762161631}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -57502,12 +57508,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -57757,6 +57757,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1763568218}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1763568220}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -57770,12 +57776,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -58036,6 +58036,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1767344937}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1767344939}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -58049,12 +58055,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -58401,6 +58401,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1767516254}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1767516256}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -58414,12 +58420,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -58894,6 +58894,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1776975218}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1776975220}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -58907,12 +58913,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -59147,6 +59147,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1779708004}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1779708003}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -59160,12 +59166,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -59478,6 +59478,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1783414016}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1783414018}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -59491,12 +59497,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -60054,6 +60054,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1787278873}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1787278875}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -60067,12 +60073,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -60546,6 +60546,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1806543934}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1806543933}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -60559,12 +60565,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -60846,6 +60846,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1816531203}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1816531205}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -60859,12 +60865,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -61333,6 +61333,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1823613896}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1823613898}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -61346,12 +61352,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -61622,6 +61622,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1826522437}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1826522436}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -61635,12 +61641,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -61922,6 +61922,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1833079106}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1833079108}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -61935,12 +61941,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -62947,6 +62947,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1872716272}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1872716274}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -62960,12 +62966,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -63170,6 +63170,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1886055826}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1886055828}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -63183,12 +63189,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -63538,6 +63538,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1906448527}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1906448529}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -63551,12 +63557,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -64052,6 +64052,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1912713204}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1912713206}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -64065,12 +64071,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -64380,6 +64380,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1920330623}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1920330625}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -64393,12 +64399,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -65423,6 +65423,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1974580394}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1974580396}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -65436,12 +65442,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -66051,6 +66051,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1986011665}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1986011667}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -66064,12 +66070,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -66325,6 +66325,12 @@ MonoBehaviour:
   _interactableView: {fileID: 1994913979}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1994913981}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -66338,12 +66344,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -66672,6 +66672,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2003989572}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2003989574}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -66685,12 +66691,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -67049,6 +67049,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2012518258}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2012518260}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -67062,12 +67068,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -67328,6 +67328,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2018758575}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2018758577}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -67341,12 +67347,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -67674,6 +67674,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2023881055}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2023881057}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -67687,12 +67693,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -68106,6 +68106,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2039574176}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2039574178}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -68119,12 +68125,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -68676,6 +68676,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2053938850}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2053938849}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -68689,12 +68695,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -69395,6 +69395,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2071159052}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2071159054}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -69408,12 +69414,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -69720,6 +69720,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2073092264}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2073092263}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -69733,12 +69739,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -70322,6 +70322,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2087778294}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2087778296}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -70335,12 +70341,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -70596,6 +70596,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2088983456}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2088983458}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -70609,12 +70615,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -71137,6 +71137,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2098812594}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2098812596}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -71150,12 +71156,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -71452,6 +71452,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2102706380}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2102706382}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -71465,12 +71471,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -71800,6 +71800,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2122463236}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2122463238}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -71813,12 +71819,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
@@ -72218,6 +72218,12 @@ MonoBehaviour:
   _interactableView: {fileID: 2123877401}
   _whenHover:
     m_PersistentCalls:
+      m_Calls: []
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelect:
+    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2123877403}
         m_TargetAssemblyTypeName: PinPanelInformativo, Assembly-CSharp
@@ -72231,12 +72237,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
-      m_Calls: []
   _whenUnselect:
     m_PersistentCalls:
       m_Calls: []
